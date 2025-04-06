@@ -1,0 +1,499 @@
+Age,Gender,Height,Weight,Activity Level,Fitness Goal,Dietary Preference,Daily Calorie Target,Protein,Carbohydrates,Fat,Breakfast Suggestion,Lunch Suggestion,Dinner Suggestion,Snack Suggestion
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2000,120,250,60,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Greek yogurt, fruit"
+32,Female,165,65,Lightly Active,Weight Loss,Vegetarian,1600,80,200,40,"Tofu scramble, veggies","Lentil soup, whole wheat bread","Vegetable stir-fry, brown rice","Apple, almond butter"
+48,Male,175,95,Sedentary,Maintenance,Vegan,2200,100,300,65,"Tofu, veggie breakfast burrito","Black bean burger, a whole wheat bun","Lentil, vegetable curry",Trail mix
+55,Female,160,70,Very Active,Weight Loss,Omnivore,2500,140,350,80,"Greek yogurt, granola, fruit","Chicken, vegetable stir-fry","Turkey chili, brown rice","Banana, peanut butter"
+62,Male,170,85,Sedentary,Maintenance,Vegetarian,2000,80,250,55,"Scrambled eggs, whole wheat toast, avocado","Quinoa salad, chickpeas, vegetables","Vegetarian chili, cornbread","Fruit, nut mix"
+68,Female,155,60,Lightly Active,Maintenance,Vegan,1800,70,220,45,"Tofu scramble, veggies","Lentil pasta, vegetables","Vegan stir-fry, brown rice","Hummus, veggie wrap"
+28,Male,190,100,Moderately Active,Muscle Gain,Omnivore,3000,180,350,80,"Protein pancakes, fruit, nuts","Chicken breast, brown rice, vegetables","Steak, sweet potato, broccoli",Protein shake
+35,Female,170,75,Very Active,Muscle Gain,Vegetarian,2400,120,300,60,"Tofu, veggie breakfast burrito","Black bean burger, a whole wheat bun","Quinoa, vegetable bowl","Cottage cheese, fruit"
+42,Male,185,110,Moderately Active,Muscle Gain,Vegan,3200,160,400,85,"Tofu, chickpea scramble","Lentil burger, sweet potato fries","Vegan chili, cornbread",Energy bar
+58,Female,168,78,Sedentary,Maintenance,Vegan,1900,75,230,50,"Overnight oats, fruit, chia seeds","Lentil soup, whole wheat bread","Vegan pasta, vegetables, sauce","Fruit, veggie sticks"
+25,Male,180,80,Lightly Active,Weight Loss,Omnivore,2000,120,250,60,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Greek yogurt, fruit"
+32,Female,165,65,Moderately Active,Muscle Gain,Vegan,2200,100,300,70,"Tofu scramble, vegetables","Lentil soup, wholegrain bread","Chickpea, vegetable curry","Trail mix, nuts, seeds"
+48,Male,175,95,Sedentary,Maintenance,Vegetarian,2400,100,350,80,"Wholegrain toast, avocado",Black bean salad,"Vegetable stir-fry, tofu","Fruit salad, yogurt"
+55,Female,160,70,Moderately Active,Weight Loss,Omnivore,1800,100,200,50,"Greek yogurt, granola","Tuna salad sandwich, wholegrain bread","Chicken breast, steamed vegetables",Popcorn
+62,Male,170,85,Very Active,Muscle Gain,Vegan,3000,150,400,100,"Tofu, vegetable stir-fry","Lentil, vegetable stew",Vegan chili,"Smoothie, protein powder"
+28,Female,172,60,Lightly Active,Muscle Gain,Vegan,2000,100,250,60,"Tofu scramble, vegetables","Black bean burger, a wholegrain bun","Lentil pasta, vegetables","Trail mix, nuts, seeds"
+35,Male,185,90,Very Active,Weight Loss,Omnivore,2500,150,300,80,"Oatmeal, protein powder, fruit","Grilled chicken breast, brown rice","Salmon, roasted vegetables","Fruit, nuts"
+40,Female,168,75,Moderately Active,Maintenance,Vegetarian,2200,100,300,70,"Wholegrain toast, avocado","Lentil soup, wholegrain bread","Vegetable stir-fry, tofu","Fruit salad, yogurt"
+22,Male,190,100,Lightly Active,Muscle Gain,Omnivore,2800,160,350,90,"Eggs, wholegrain toast","Chicken breast, brown rice","Steak, roasted vegetables",Protein bar
+58,Female,155,68,Sedentary,Weight Loss,Vegan,1600,80,180,40,"Tofu scramble, vegetables","Lentil soup, wholegrain bread",Vegan chili,"Fruit, nut mix"
+24,Female,165,55,Lightly Active,Weight Loss,Omnivore,1800,100,250,50,"Greek yogurt, berries, granola","Salmon salad, mixed greens, avocado","Chicken stir-fry, brown rice","Apple, peanut butter"
+38,Male,180,80,Moderately Active,Muscle Gain,Omnivore,2800,160,350,80,"Oatmeal, protein powder, fruit","Chicken breast, sweet potato, broccoli","Steak, roasted vegetables",Protein shake
+55,Female,160,70,Sedentary,Weight Loss,Vegetarian,1600,80,200,40,"Tofu scramble, vegetables","Lentil soup, whole wheat bread","Vegetarian chili, brown rice","Trail mix, nuts, dried fruit"
+62,Male,175,95,Moderately Active,Weight Loss,Omnivore,2200,120,280,60,"Eggs, whole wheat toast, avocado","Turkey sandwich, whole wheat bread, vegetables","Chicken, vegetable stir-fry, brown rice","Greek yogurt, fruit, granola"
+28,Female,170,65,Very Active,Muscle Gain,Vegan,2400,140,320,70,"Tofu scramble, vegetables, avocado","Vegan lentil stew, whole wheat bread","Tofu stir-fry, brown rice, vegetables","Banana, almond butter"
+45,Male,185,100,Lightly Active,Weight Loss,Omnivore,2000,110,250,50,"Greek yogurt, fruit, granola","Tuna salad, whole wheat bread","Chicken breast, sweet potato, green beans","Mixed nuts, seeds"
+68,Female,155,60,Sedentary,Maintenance,Vegan,1400,70,180,35,"Tofu scramble, vegetables","Lentil soup, whole wheat bread","Vegan pasta, vegetables, tomato sauce","Apple, peanut butter"
+32,Male,190,90,Very Active,Muscle Gain,Omnivore,3000,180,400,90,"Oatmeal, protein powder, fruit","Chicken breast, sweet potato, broccoli","Steak, roasted vegetables",Protein shake
+58,Male,170,85,Moderately Active,Weight Loss,Vegetarian,1900,100,240,50,"Eggs, whole wheat toast, avocado","Lentil soup, whole wheat bread","Vegetarian chili, brown rice","Trail mix, nuts, dried fruit"
+22,Female,160,50,Lightly Active,Weight Loss,Vegan,1500,80,200,40,"Tofu scramble, vegetables","Vegan lentil stew, whole wheat bread","Tofu stir-fry, brown rice, vegetables","Banana, almond butter"
+25,Female,165,60,Lightly Active,Weight Loss,Omnivore,1800,80,200,60,"Greek yogurt, berries, granola","Lentil soup, whole wheat bread","Salmon, roasted vegetables","Apple slices, peanut butter"
+38,Male,180,85,Moderately Active,Muscle Gain,Vegetarian,2800,150,250,80,"Tofu scramble, spinach, avocado","Quinoa salad, chickpeas, vegetables","Black bean burgers, sweet potato fries","Mixed nuts, seeds"
+55,Female,160,65,Sedentary,Maintenance,Vegan,1600,65,180,50,"Overnight oats, fruit, chia seeds","Lentil, vegetable curry, brown rice","Tofu stir-fry, brown rice noodles",Fruit smoothie
+42,Male,190,95,Very Active,Muscle Gain,Omnivore,3200,200,300,100,"Scrambled eggs, whole wheat toast, fruit","Chicken breast, brown rice, vegetables","Steak, sweet potato, asparagus",Protein shake
+62,Female,155,58,Sedentary,Weight Loss,Vegan,1400,55,150,40,"Oatmeal, berries, plant-based milk","Lentil soup, whole wheat bread","Vegetable stir-fry, tofu, brown rice","Apple slices, almond butter"
+28,Male,175,70,Moderately Active,Muscle Gain,Omnivore,2500,130,220,70,"Greek yogurt, fruit, granola","Tuna salad sandwich, whole wheat bread","Chicken breast, brown rice, vegetables",Trail mix
+31,Female,170,75,Lightly Active,Weight Loss,Vegetarian,1700,70,190,50,"Scrambled eggs, whole wheat toast, avocado","Vegetarian chili, whole wheat bread","Black bean burgers, salad","Apple slices, almond butter"
+58,Male,185,90,Moderately Active,Maintenance,Omnivore,2400,100,240,70,"Oatmeal, fruit, nuts","Chicken salad sandwich, whole wheat bread","Salmon, roasted vegetables","Fruit, cheese"
+22,Female,168,55,Very Active,Muscle Gain,Vegan,2200,110,200,60,"Overnight oats, fruit, chia seeds","Tofu scramble, spinach, avocado","Lentil, vegetable curry, brown rice",Protein shake
+45,Male,182,80,Lightly Active,Weight Loss,Omnivore,2000,90,220,60,"Greek yogurt, fruit, granola","Chicken breast salad, vegetables","Turkey chili, brown rice","Fruit, yogurt"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Greek yogurt, fruit"
+32,Female,165,65,Lightly Active,Muscle Gain,Vegetarian,2000,100,200,60,"Tofu scramble, whole-wheat toast","Lentil soup, whole-wheat bread","Vegetable stir-fry, brown rice","Trail mix, nuts, dried fruit"
+55,Male,175,90,Sedentary,Maintenance,Vegan,2000,80,250,50,"Tofu, vegetable breakfast burrito","Black bean burger, a whole-wheat bun","Lentil pasta, marinara sauce","Fruit salad, nuts"
+68,Female,160,75,Lightly Active,Weight Loss,Omnivore,1800,80,180,50,"Greek yogurt, granola","Chicken breast salad, mixed greens","Turkey meatballs, steamed vegetables",Popcorn
+28,Male,185,95,Very Active,Muscle Gain,Omnivore,3000,160,350,80,"Scrambled eggs, avocado, whole-wheat toast","Chicken breast, brown rice, vegetables","Steak, sweet potato fries","Protein shake, banana"
+38,Female,170,70,Moderately Active,Weight Loss,Vegan,1800,80,200,50,"Overnight oats, chia seeds, fruit","Tofu, vegetable stir-fry, brown rice","Lentil soup, whole-wheat bread","Fruit salad, nuts"
+62,Male,170,85,Sedentary,Maintenance,Omnivore,2200,80,270,60,"Pancakes, fruit, syrup","Grilled chicken sandwich, whole-wheat bread","Chicken stir-fry, brown rice",Popcorn
+45,Female,168,60,Very Active,Muscle Gain,Vegetarian,2400,120,280,70,"Tofu scramble, whole-wheat toast","Black bean burger, a whole-wheat bun","Chickpea curry, brown rice","Energy bar, nuts, seeds"
+22,Female,172,55,Moderately Active,Weight Loss,Vegan,1800,80,200,50,"Overnight oats, chia seeds, fruit","Tofu, vegetable stir-fry, brown rice","Lentil stew, whole-wheat bread","Trail mix, nuts, dried fruit"
+58,Male,178,98,Sedentary,Maintenance,Omnivore,2000,80,250,50,"Scrambled eggs, whole-wheat toast","Tuna salad sandwich, whole-wheat bread","Chicken breast, roasted vegetables","Fruit salad, nuts"
+25,Male,180,85,Lightly Active,Weight Loss,Omnivore,2000,120,250,65,"Greek yogurt, berries, granola","Chicken breast salad, mixed greens","Salmon, roasted vegetables","Apple, peanut butter"
+32,Female,165,60,Moderately Active,Muscle Gain,Vegetarian,2200,100,300,70,"Tofu scramble, whole-wheat toast","Lentil soup, whole-wheat bread","Tofu stir-fry, brown rice","Trail mix, nuts, dried fruit"
+48,Male,175,95,Very Active,Maintenance,Omnivore,2800,150,350,90,"Oatmeal, fruit, nuts","Chicken, vegetable stir-fry","Beef stew, brown rice",Protein bar
+55,Female,160,70,Sedentary,Weight Loss,Vegan,1600,80,200,50,"Tofu scramble, spinach, avocado toast","Lentil soup, whole-wheat bread","Vegan chili, brown rice","Fruit salad, nuts"
+28,Male,185,90,Moderately Active,Muscle Gain,Vegan,2600,130,350,80,"Tofu, veggie breakfast burrito","Lentil, quinoa salad","Vegan pasta, marinara sauce","Smoothie, protein powder, fruit"
+62,Female,155,65,Lightly Active,Weight Loss,Omnivore,1800,90,220,60,"Eggs, whole-wheat toast","Chicken salad sandwich, mixed greens","Fish, roasted vegetables","Greek yogurt, fruit"
+35,Female,170,75,Very Active,Muscle Gain,Vegetarian,2400,110,320,75,"Quinoa porridge, fruit, nuts","Chickpea, vegetable curry","Black bean burgers, whole-wheat buns","Trail mix, nuts, seeds"
+22,Male,190,80,Moderately Active,Weight Loss,Vegan,2100,100,270,65,"Tofu scramble, vegetables, whole-wheat toast","Black bean burgers, sweet potato fries","Vegan stir-fry, brown rice","Fruit salad, nuts"
+58,Male,178,100,Sedentary,Maintenance,Omnivore,2400,120,300,75,"Scrambled eggs, bacon, whole-wheat toast",Chicken Caesar salad,"Grilled salmon, roasted vegetables",Mixed nuts
+40,Female,168,72,Lightly Active,Muscle Gain,Vegetarian,2000,90,250,65,"Greek yogurt, fruit, granola","Chickpea salad sandwich, whole-wheat bread","Lentil stew, brown rice","Smoothie, protein powder, fruit"
+25,Male,180,80,Moderately Active,Muscle Gain,Omnivore,2800,160,350,80,"Oatmeal, protein powder, berries","Chicken breast, brown rice, vegetables","Salmon, sweet potato, broccoli","Greek yogurt, nuts, seeds"
+32,Female,165,60,Lightly Active,Weight Loss,Vegetarian,1800,100,220,50,"Tofu scramble, vegetables, whole-wheat toast","Vegetarian chili, a side salad","Lentil soup, whole-wheat bread","Apple, peanut butter"
+55,Male,175,90,Sedentary,Maintenance,Omnivore,2200,120,250,60,"Eggs, whole-wheat toast, avocado","Grilled chicken salad, mixed greens","Tuna, quinoa, roasted vegetables","Trail mix, almonds, dried fruit"
+28,Female,170,65,Very Active,Muscle Gain,Vegan,2400,140,300,70,"Tofu scramble, vegetables, whole-wheat toast","Black bean burger, sweet potato fries","Lentil stew, brown rice","Banana, almond butter"
+62,Female,160,70,Lightly Active,Weight Loss,Omnivore,1600,80,180,40,"Greek yogurt, berries, granola","Grilled salmon, roasted vegetables","Chicken breast, steamed vegetables","Fruit salad, nuts, seeds"
+21,Male,190,95,Moderately Active,Muscle Gain,Omnivore,3000,180,400,90,"Pancakes, fruit, syrup","Chicken stir-fry, brown rice","Steak, baked potato, green beans","Protein shake, fruit"
+35,Female,168,55,Sedentary,Weight Loss,Vegetarian,1500,80,160,40,"Greek yogurt, berries, granola","Vegetarian chili, a side salad","Lentil soup, whole-wheat bread","Apple, peanut butter"
+68,Female,155,65,Lightly Active,Maintenance,Vegetarian,1700,80,190,50,"Scrambled eggs, vegetables, whole-wheat toast","Black bean burger, sweet potato fries","Vegetarian lasagna, salad","Fruit salad, nuts, seeds"
+25,Female,165,60,Lightly Active,Weight Loss,Omnivore,1800,100,200,60,"Greek yogurt, berries, granola","Tuna salad sandwich, whole-wheat bread, a side of mixed greens","Salmon, roasted vegetables, quinoa","Apple slices, almond butter"
+32,Male,180,85,Moderately Active,Muscle Gain,Omnivore,2800,180,300,80,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, quinoa, steamed vegetables","Steak, baked potato, broccoli","Protein shake, banana"
+48,Female,170,75,Sedentary,Maintenance,Vegetarian,2000,80,220,70,"Oatmeal, fruit, nuts","Lentil soup, whole-wheat bread","Vegetarian chili, brown rice","Trail mix, dried fruit, nuts"
+55,Male,175,90,Moderately Active,Muscle Gain,Vegan,2500,160,280,70,"Tofu scramble, veggies, whole-wheat toast","Lentil, vegetable curry, brown rice","Black bean burgers, sweet potato fries","Banana, almond butter"
+62,Female,160,65,Lightly Active,Weight Loss,Vegan,1600,80,180,50,"Overnight oats, fruit, nuts","Vegetable stir-fry, brown rice","Lentil, vegetable stew","Apple slices, peanut butter"
+28,Male,190,100,Very Active,Muscle Gain,Omnivore,3200,200,350,90,"Oatmeal, protein powder, fruit","Chicken breast, brown rice, steamed vegetables","Beef stir-fry, brown rice",Protein bar
+35,Female,168,55,Sedentary,Weight Loss,Vegetarian,1500,70,170,50,"Greek yogurt, fruit, granola","Black bean burger, whole-wheat bun, salad","Lentil soup, whole-wheat bread","Trail mix, dried fruit, nuts"
+42,Male,185,95,Moderately Active,Maintenance,Vegan,2400,150,260,70,"Tofu scramble, veggies, whole-wheat toast","Lentil, vegetable curry, brown rice","Black bean burgers, sweet potato fries","Banana, almond butter"
+21,Female,172,58,Lightly Active,Weight Loss,Omnivore,1700,90,190,60,"Eggs, whole-wheat toast, avocado","Chicken salad sandwich, whole-wheat bread, a side of mixed greens","Salmon, roasted vegetables, quinoa","Apple slices, almond butter"
+58,Male,178,80,Sedentary,Maintenance,Vegetarian,2100,70,230,70,"Oatmeal, fruit, nuts","Lentil soup, whole-wheat bread","Vegetarian chili, brown rice","Trail mix, dried fruit, nuts"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2000,120,250,60,"Greek yogurt, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Fruit, nuts"
+38,Female,165,65,Sedentary,Maintenance,Vegetarian,1800,80,220,60,"Oatmeal, fruit, nuts","Lentil soup, whole grain bread","Tofu stir-fry, brown rice","Vegetable sticks, hummus"
+62,Male,175,90,Lightly Active,Muscle Gain,Omnivore,2500,180,300,80,"Scrambled eggs, whole wheat toast, avocado","Chicken breast, brown rice, steamed vegetables","Beef stew, whole grain bread",Protein shake
+45,Female,170,75,Very Active,Weight Loss,Vegan,2200,100,280,60,"Tofu scramble, whole wheat toast, avocado","Lentil salad, quinoa, mixed greens","Chickpea curry, brown rice","Fruit, nut mix"
+58,Male,178,85,Sedentary,Maintenance,Omnivore,2200,100,270,70,"Yogurt, fruit, granola","Turkey sandwich, whole grain bread","Chicken breast, roasted vegetables",Trail mix
+22,Female,160,55,Moderately Active,Muscle Gain,Vegetarian,2000,100,250,60,"Oatmeal, protein powder, fruit","Bean burrito, brown rice","Chickpea, vegetable pasta","Greek yogurt, fruit, nuts"
+68,Male,170,70,Lightly Active,Weight Loss,Omnivore,1800,80,220,60,"Scrambled eggs, whole wheat toast, fruit","Tuna salad, whole grain bread","Salmon, steamed vegetables",Mixed nuts
+30,Female,168,60,Very Active,Muscle Gain,Vegan,2400,120,300,80,"Tofu scramble, whole wheat toast, avocado","Lentil salad, quinoa, mixed greens","Chickpea curry, brown rice","Fruit, nut mix"
+55,Female,165,78,Sedentary,Maintenance,Vegetarian,1900,80,230,60,"Yogurt, fruit, granola","Black bean soup, whole wheat bread","Vegetable stir-fry, brown rice",Trail mix
+28,Male,185,100,Moderately Active,Muscle Gain,Omnivore,2800,160,350,100,"Eggs, whole wheat toast, avocado","Chicken breast, brown rice, steamed vegetables","Steak, sweet potato, green beans",Protein shake
+25,Female,165,60,Lightly Active,Weight Loss,Omnivore,1800,100,200,60,"Greek yogurt, berries, almonds","Grilled chicken salad, mixed greens","Lentil soup, whole-wheat bread","Apple, peanut butter"
+32,Male,180,85,Moderately Active,Muscle Gain,Omnivore,2800,180,350,80,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, steamed vegetables","Salmon, roasted sweet potatoes",Protein shake
+55,Female,160,70,Sedentary,Weight Loss,Vegetarian,1600,80,180,50,"Oatmeal, fruit, nuts","Lentil, vegetable curry, brown rice","Black bean burgers, whole-wheat buns","Hummus, vegetables"
+40,Male,190,95,Very Active,Muscle Gain,Vegan,3200,160,400,90,"Tofu scramble, vegetables, whole-wheat toast","Lentil stew, brown rice, quinoa","Chickpea, vegetable curry, brown rice","Trail mix, nuts, dried fruits"
+62,Male,175,80,Moderately Active,Maintenance,Omnivore,2400,140,280,70,"Eggs, whole-wheat toast, bacon","Chicken breast, roasted vegetables","Steak, mashed potatoes, green beans","Greek yogurt, berries"
+28,Female,170,55,Sedentary,Weight Loss,Vegan,1500,70,160,40,"Overnight oats, fruit, chia seeds","Lentil, vegetable soup, whole-wheat bread","Tofu stir-fry, brown rice, vegetables","Banana, almond butter"
+38,Female,168,65,Lightly Active,Maintenance,Vegetarian,2000,90,220,60,"Scrambled tofu, whole-wheat toast, avocado","Black bean burgers, whole-wheat buns, salad","Lentil, vegetable soup, whole-wheat bread","Trail mix, nuts, dried fruits"
+58,Male,178,85,Moderately Active,Muscle Gain,Vegan,2800,150,350,80,"Tofu scramble, vegetables, whole-wheat toast","Lentil, vegetable curry, brown rice, quinoa","Chickpea, vegetable curry, brown rice","Trail mix, nuts, dried fruits"
+22,Male,185,90,Very Active,Muscle Gain,Omnivore,3000,170,380,80,"Eggs, whole-wheat toast, bacon","Chicken breast, brown rice, steamed vegetables","Steak, mashed potatoes, green beans",Protein shake
+45,Female,172,75,Sedentary,Weight Loss,Vegan,1700,80,190,50,"Overnight oats, fruit, chia seeds","Lentil, vegetable soup, whole-wheat bread","Tofu stir-fry, brown rice, vegetables","Banana, almond butter"
+28,Female,165,55,Lightly Active,Weight Loss,Omnivore,1800,75,200,50,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Lentil soup, whole wheat bread","Greek yogurt, fruit, granola"
+55,Male,180,90,Moderately Active,Maintenance,Vegetarian,2500,90,300,70,"Tofu scramble, vegetables","Lentil, vegetable curry, brown rice","Quinoa salad, roasted vegetables",Trail mix
+32,Female,170,60,Very Active,Muscle Gain,Vegan,2400,100,350,60,"Tofu, vegetable stir-fry, brown rice","Black bean burgers, sweet potato fries","Lentil, vegetable stew","Fruit, nut mix"
+22,Male,190,85,Sedentary,Weight Loss,Omnivore,2000,80,250,55,"Scrambled eggs, whole wheat toast","Chicken breast, brown rice, steamed vegetables","Salmon, roasted vegetables","Low-fat Greek yogurt, berries"
+62,Female,160,70,Moderately Active,Maintenance,Vegan,1800,70,220,50,"Tofu, vegetable scramble, whole wheat toast","Chickpea salad sandwich, whole wheat bread","Lentil, vegetable stew, brown rice","Fruit, nut mix"
+25,Male,185,95,Lightly Active,Muscle Gain,Omnivore,2800,120,380,80,"Greek yogurt, fruit, granola","Chicken breast, brown rice, roasted vegetables","Steak, sweet potato, green beans",Protein bar
+40,Female,175,75,Very Active,Weight Loss,Vegetarian,2000,80,250,55,"Tofu scramble, vegetables","Black bean burger, whole wheat bun","Lentil, vegetable stew, brown rice","Fruit, nut mix"
+38,Male,178,80,Sedentary,Maintenance,Vegan,2200,85,280,65,"Tofu, vegetable stir-fry, brown rice","Black bean burgers, sweet potato fries","Lentil, vegetable curry, brown rice","Fruit, nut mix"
+20,Female,168,50,Lightly Active,Muscle Gain,Omnivore,2200,90,300,60,"Oatmeal, berries, nuts","Chicken breast, brown rice, steamed vegetables","Salmon, roasted vegetables",Protein bar
+58,Male,175,85,Moderately Active,Maintenance,Vegetarian,2300,80,300,70,"Tofu, vegetable scramble, whole wheat toast","Lentil, vegetable curry, brown rice","Quinoa salad, roasted vegetables",Trail mix
+25,Male,175,75,Moderately Active,Weight Loss,Omnivore,2200,150,250,60,"Greek yogurt, berries, granola","Quinoa salad, chicken, vegetables","Grilled salmon, roasted vegetables","Fruit, nuts"
+38,Female,165,60,Lightly Active,Maintenance,Vegetarian,1800,100,200,50,"Tofu scramble, vegetables, whole-wheat toast","Lentil soup, whole-wheat bread","Vegetable stir-fry, brown rice",Trail mix
+55,Male,180,90,Sedentary,Weight Loss,Omnivore,1800,120,200,40,"Oatmeal, fruit, nuts","Chicken breast salad, mixed greens","Tuna salad sandwich, whole-wheat bread","Fruit, yogurt"
+62,Female,160,70,Sedentary,Maintenance,Vegan,1600,80,180,40,"Tofu, vegetable stir-fry, brown rice","Lentil soup, whole-wheat bread","Black bean burgers, whole-wheat buns","Raw vegetables, hummus"
+28,Female,170,65,Very Active,Muscle Gain,Omnivore,2500,180,300,80,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, vegetables","Steak, sweet potato, broccoli",Protein shake
+32,Male,185,85,Moderately Active,Weight Loss,Vegan,2000,140,220,50,"Tofu scramble, vegetables, whole-wheat toast","Lentil soup, whole-wheat bread","Chickpea curry, brown rice","Fruit, nuts"
+68,Male,170,80,Lightly Active,Weight Loss,Omnivore,1600,100,180,40,"Oatmeal, fruit, nuts","Tuna salad sandwich, whole-wheat bread","Chicken breast, roasted vegetables, sweet potato","Fruit, yogurt"
+45,Female,165,65,Very Active,Muscle Gain,Vegetarian,2300,150,280,70,"Tofu, vegetable stir-fry, brown rice","Chickpea salad, mixed greens","Lentil stew, whole-wheat bread",Trail mix
+72,Female,155,55,Sedentary,Maintenance,Omnivore,1400,70,160,30,"Scrambled eggs, whole-wheat toast","Chicken breast salad, mixed greens","Tuna salad sandwich, whole-wheat bread","Fruit, yogurt"
+21,Male,190,95,Moderately Active,Weight Loss,Omnivore,2400,160,280,60,"Greek yogurt, berries, granola","Quinoa salad, chicken, vegetables","Grilled chicken, roasted vegetables","Fruit, nuts"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Greek Yogurt, berries, granola","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Apple, almond butter"
+30,Female,165,65,Lightly Active,Muscle Gain,Vegetarian,2000,100,200,60,"Tofu scramble, vegetables, avocado","Lentil soup, whole-wheat bread","Quinoa bowl, roasted chickpeas, vegetables","Trail mix, nuts, dried fruit"
+55,Male,175,90,Sedentary,Weight Loss,Omnivore,1800,90,180,50,"Oatmeal, fruit, nuts","Tuna salad sandwich, whole-wheat bread","Chicken stir-fry, brown rice","Celery sticks, peanut butter"
+22,Female,170,55,Very Active,Muscle Gain,Vegan,2500,130,300,70,"Tofu omelet, spinach","Vegan lentil stew, brown rice","Black bean burgers, whole-wheat buns","Banana, almond butter"
+60,Female,155,60,Moderately Active,Maintenance,Vegetarian,1600,70,160,40,"Scrambled eggs, whole-wheat toast","Vegetarian chili, whole-wheat bread","Lentil pasta, tomato sauce",Fruit salad
+28,Male,190,100,Very Active,Weight Loss,Omnivore,2800,150,350,80,"Greek yogurt, protein powder, fruit","Chicken breast, brown rice, vegetables","Turkey chili, sweet potato",Protein bar
+35,Female,160,50,Lightly Active,Muscle Gain,Vegan,1800,90,180,50,"Tofu scramble, vegetables, avocado","Vegan lentil stew, brown rice","Black bean burgers, whole-wheat buns","Trail mix, nuts, dried fruit"
+48,Male,185,95,Moderately Active,Maintenance,Omnivore,2200,110,220,60,"Oatmeal, fruit, nuts","Tuna salad sandwich, whole-wheat bread","Grilled salmon, roasted vegetables","Greek yogurt, berries"
+65,Male,170,75,Sedentary,Weight Loss,Omnivore,1500,70,150,40,"Scrambled eggs, whole-wheat toast","Chicken salad sandwich, whole-wheat bread","Chicken stir-fry, brown rice","Apple, peanut butter"
+19,Female,168,58,Very Active,Muscle Gain,Vegan,2300,120,280,60,"Tofu omelet, spinach","Vegan lentil stew, brown rice","Black bean burgers, whole-wheat buns","Banana, almond butter"
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Greek yogurt, berries, granola","Grilled chicken salad, mixed greens, avocado","Salmon, roasted vegetables, quinoa","Trail mix, almonds, dried cranberries"
+38,Female,165,68,Lightly Active,Maintenance,Vegetarian,1800,80,220,50,"Oatmeal, fruit, nuts","Lentil soup, whole-wheat bread","Vegetarian chili, brown rice","Apple, peanut butter"
+55,Male,175,95,Sedentary,Weight Loss,Vegan,1900,85,200,45,"Tofu scramble, vegetables, whole-wheat toast","Vegan lentil stew, brown rice","Chickpea curry, brown rice","Banana, almond butter"
+22,Female,160,55,Very Active,Muscle Gain,Omnivore,2500,150,300,75,"Scrambled eggs, whole-wheat toast, avocado","Chicken, vegetable stir-fry, brown rice","Chicken breast, sweet potato, broccoli","Protein bar, nuts"
+62,Female,168,72,Sedentary,Maintenance,Vegan,1700,75,180,40,"Tofu breakfast burrito, whole-wheat tortilla","Vegan pasta salad, vegetables","Lentil, vegetable curry, brown rice","Fruit salad, nuts"
+30,Male,190,100,Moderately Active,Muscle Gain,Omnivore,3000,180,350,90,"Protein pancakes, fruit, syrup","Chicken breast, brown rice, vegetables","Steak, baked potato, green beans","Protein shake, fruit"
+28,Female,170,65,Lightly Active,Weight Loss,Vegetarian,1600,70,180,45,"Scrambled tofu, spinach, tomato","Vegetarian chili, brown rice","Quinoa bowl, roasted vegetables, chickpeas","Trail mix, dried fruit, nuts"
+40,Male,185,90,Very Active,Weight Loss,Omnivore,2500,130,280,70,"Greek yogurt, berries, granola","Tuna salad sandwich, whole-wheat bread","Chicken breast, brown rice, vegetables","Mixed nuts, seeds"
+21,Female,168,58,Lightly Active,Maintenance,Vegan,1800,75,200,50,"Tofu scramble, vegetables, whole-wheat toast","Vegan lentil stew, brown rice","Black bean burger, whole-wheat bun, avocado","Trail mix, dried fruit, nuts"
+58,Male,178,88,Sedentary,Weight Loss,Omnivore,1800,80,200,50,"Oatmeal, fruit, nuts","Chicken breast, brown rice, vegetables","Salmon, roasted vegetables, quinoa","Fruit salad, yogurt"
+25,Female,165,58,Moderately Active,Weight Loss,Omnivore,1800,100,200,50,"Greek yogurt, berries, granola","Lentil soup, whole wheat bread","Grilled salmon, roasted vegetables","Apple slices, peanut butter"
+32,Male,180,85,Lightly Active,Muscle Gain,Omnivore,2500,150,300,70,"Scrambled eggs, whole wheat toast, avocado","Chicken breast salad, mixed greens","Steak, sweet potato fries","Protein shake, banana"
+55,Female,160,70,Sedentary,Weight Loss,Vegetarian,1500,80,150,40,"Oatmeal, fruit, nuts","Vegetarian chili, brown rice","Tofu stir-fry, vegetables","Carrot sticks, hummus"
+40,Male,190,95,Moderately Active,Maintenance,Vegan,2200,120,250,60,"Tofu scramble, vegetables, whole wheat toast","Lentil, vegetable curry, brown rice","Chickpea, vegetable pasta bake","Trail mix, dried fruit, nuts"
+68,Female,155,62,Sedentary,Weight Loss,Vegan,1400,70,130,35,"Vegan overnight oats, berries","Lentil, vegetable soup, whole wheat bread","Tofu, vegetable stir-fry","Banana, almond butter"
+28,Male,175,78,Very Active,Muscle Gain,Omnivore,3000,180,350,80,"Protein pancakes, fruit, syrup","Chicken breast, brown rice, vegetables","Beef stir-fry, brown rice",Protein bar
+35,Female,170,65,Lightly Active,Maintenance,Vegetarian,1900,90,200,55,"Scrambled eggs, spinach, whole wheat toast","Vegetarian chili, brown rice","Lentil, vegetable stew","Fruit salad, yogurt"
+52,Male,185,100,Very Active,Muscle Gain,Vegan,2800,160,300,80,"Tofu scramble, vegetables, whole wheat toast","Lentil, vegetable curry, brown rice","Vegan chili, brown rice","Trail mix, dried fruit, nuts"
+22,Female,168,55,Moderately Active,Weight Loss,Vegan,1600,80,180,40,"Vegan overnight oats, chia seeds, berries","Lentil, vegetable soup, whole wheat bread","Tofu, vegetable stir-fry","Apple slices, peanut butter"
+47,Male,178,80,Sedentary,Maintenance,Omnivore,2100,110,230,60,"Greek yogurt, fruit, granola","Chicken salad sandwich, whole wheat bread","Salmon, roasted vegetables","Mixed nuts, seeds"
+28,Female,165,60,Lightly Active,Weight Loss,Omnivore,1800,100,200,60,"Greek yogurt, berries, granola","Lentil soup, whole-wheat bread","Grilled chicken, roasted vegetables","Apple, peanut butter"
+35,Male,180,80,Moderately Active,Maintenance,Vegetarian,2500,100,300,80,"Tofu scramble, whole-wheat toast","Black bean burger, a whole-wheat bun","Lentil, vegetable curry, rice",Trail mix
+55,Female,160,75,Sedentary,Weight Loss,Vegan,1500,75,150,40,"Overnight oats, fruit, nuts","Tofu stir-fry, brown rice","Lentil pasta, tomato sauce","Banana, almond butter"
+62,Male,175,90,Moderately Active,Weight Loss,Omnivore,2200,120,250,70,"Scrambled eggs, whole-wheat toast, avocado","Salmon, roasted vegetables","Chicken stir-fry, brown rice","Fruit, yogurt"
+22,Female,170,55,Very Active,Muscle Gain,Omnivore,2400,150,300,80,"Protein smoothie, fruit, spinach","Chicken breast, brown rice, vegetables","Tuna salad sandwich, whole-wheat bread","Greek yogurt, berries, granola"
+40,Male,185,100,Lightly Active,Muscle Gain,Vegetarian,2800,120,350,90,"Tofu scramble, vegetables","Lentil, vegetable curry, brown rice","Chickpea, vegetable stew","String cheese, crackers"
+68,Female,155,65,Sedentary,Maintenance,Omnivore,1800,80,200,60,"Oatmeal, fruit, nuts","Tuna salad sandwich, whole-wheat bread","Chicken breast, roasted vegetables",Popcorn
+70,Male,170,85,Sedentary,Weight Loss,Vegan,1700,80,180,50,"Tofu scramble, vegetables","Lentil, vegetable curry, rice","Black bean burgers, avocado",Fruit salad
+33,Female,168,70,Very Active,Maintenance,Omnivore,2200,100,250,70,"Yogurt parfait, granola, fruit","Chicken salad sandwich, whole-wheat bread","Salmon, roasted vegetables","Apple, peanut butter"
+25,Male,190,95,Moderately Active,Muscle Gain,Vegan,2500,120,300,80,"Tofu scramble, vegetables","Lentil, vegetable curry, brown rice","Chickpea, vegetable stew",Trail mix
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,120,200,60,"Greek yogurt, berries, granola","Tuna salad sandwich, whole-wheat bread, a side salad","Grilled chicken breast, quinoa, steamed vegetables","Apple slices, almond butter"
+55,Female,165,70,Sedentary,Maintenance,Vegetarian,1800,80,250,50,"Tofu scramble, vegetables, whole-wheat toast","Lentil soup, a side of whole-wheat bread","Black bean burgers, roasted sweet potatoes, a green salad","Trail mix, nuts, dried fruit"
+32,Male,190,95,Very Active,Muscle Gain,Omnivore,3000,160,350,80,"Oatmeal, protein powder, fruit","Chicken breast, brown rice, broccoli","Salmon, roasted vegetables, quinoa","Protein shake, milk, banana"
+68,Female,170,65,Lightly Active,Weight Loss,Vegan,1500,70,180,40,"Tofu scramble, vegetables, whole-wheat toast","Lentil stew, a side of whole-wheat bread","Vegan chili, brown rice","Fruit smoothie, almond milk"
+42,Male,185,100,Very Active,Weight Loss,Omnivore,2500,140,220,70,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, broccoli","Salmon, roasted vegetables, quinoa","Trail mix, nuts, dried fruit"
+58,Female,160,55,Sedentary,Maintenance,Vegan,1600,60,200,40,"Tofu scramble, vegetables, whole-wheat toast","Lentil soup, a side of whole-wheat bread","Vegan pasta, marinara sauce, a side salad","Fruit, nut mix"
+35,Male,178,85,Lightly Active,Weight Loss,Vegetarian,2000,100,180,50,"Greek yogurt, fruit, granola","Vegetarian chili, a side of whole-wheat bread","Lentil soup, a side of whole-wheat bread","Vegetable sticks, hummus"
+72,Male,175,75,Sedentary,Maintenance,Vegan,1700,70,210,40,"Tofu scramble, vegetables, whole-wheat toast","Lentil soup, a side of whole-wheat bread","Vegan pasta, marinara sauce, a side salad","Fruit, nut mix"
+48,Female,168,68,Moderately Active,Maintenance,Omnivore,1900,80,230,50,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, broccoli","Salmon, roasted vegetables, quinoa","Trail mix, nuts, dried fruit"
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2200,150,250,70,"1 cup oatmeal, berries, nuts","Grilled chicken breast salad, mixed greens, avocado","Salmon, roasted vegetables","Greek yogurt, granola"
+32,Female,165,60,Sedentary,Weight Loss,Vegetarian,1800,80,200,60,"Tofu scramble, veggies","Lentil soup, whole-wheat bread","Vegetable stir-fry, brown rice","Fruit salad, nuts"
+55,Female,160,75,Lightly Active,Weight Maintenance,Vegan,1900,85,220,65,"Tofu, vegetable breakfast burrito","Black bean burger, sweet potato fries","Lentil, vegetable curry","Trail mix, dried fruit, nuts"
+40,Male,185,95,Very Active,Muscle Gain,Omnivore,3000,200,350,100,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, steamed vegetables","Steak, sweet potato fries","Protein shake, almond butter"
+28,Female,170,70,Moderately Active,Muscle Gain,Vegetarian,2400,140,280,80,"Greek yogurt, fruit, granola","Quinoa salad, chickpeas, vegetables","Tofu stir-fry, brown rice","Peanut butter, banana sandwich"
+62,Male,175,80,Lightly Active,Weight Maintenance,Omnivore,2100,110,240,70,"Oatmeal, fruit, nuts","Turkey sandwich, whole-wheat bread, vegetables","Chicken breast, roasted vegetables","Popcorn, a sprinkle of cinnamon"
+35,Female,168,65,Moderately Active,Weight Loss,Vegan,1900,90,220,65,"Tofu scramble, whole-wheat toast, vegetables","Black bean burger, a side salad","Chickpea, vegetable stew","Fruit, nut smoothie"
+22,Male,190,90,Very Active,Muscle Gain,Omnivore,3200,220,380,110,"3 eggs, whole-wheat toast, avocado","Chicken breast, brown rice, vegetables","Salmon, roasted sweet potatoes","Protein shake, fruit, spinach"
+48,Female,172,78,Sedentary,Weight Maintenance,Vegetarian,2000,95,230,70,"Yogurt, berries, granola","Lentil soup, whole-wheat bread",Vegetable frittata,"Apple slices, peanut butter"
+21,Male,183,82,Moderately Active,Muscle Gain,Vegan,2800,170,320,90,"Tofu scramble, vegetables, whole-wheat toast","Lentil, vegetable curry","Vegan chili, brown rice","Protein smoothie, almond milk, banana"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Fruit, yogurt"
+32,Female,165,65,Lightly Active,Maintenance,Vegetarian,1800,80,220,50,"Tofu scramble, whole-wheat toast","Lentil soup, whole-wheat bread","Vegetable stir-fry, brown rice",Trail mix
+58,Male,175,95,Sedentary,Weight Loss,Omnivore,1800,100,200,50,"Greek yogurt, fruit, granola","Tuna salad sandwich, whole-wheat bread","Chicken stir-fry, brown rice","Apple slices, peanut butter"
+28,Female,170,70,Very Active,Muscle Gain,Vegan,2500,150,300,70,"Tofu scramble, avocado, whole-wheat toast","Lentil, vegetable curry, brown rice","Chickpea pasta, tomato sauce, spinach","Nuts, seeds"
+62,Female,160,75,Sedentary,Weight Loss,Vegan,1600,70,180,40,"Oatmeal, plant-based milk, fruit","Lentil soup, whole-wheat bread","Vegetable curry, brown rice","Fruit, nuts"
+45,Male,185,105,Moderately Active,Weight Loss,Omnivore,2000,110,220,60,"Eggs, whole-wheat toast","Chicken breast, quinoa, roasted vegetables","Fish, steamed broccoli","Mixed nuts, dried fruit"
+21,Female,168,55,Lightly Active,Muscle Gain,Vegetarian,2000,100,250,60,"Tofu scramble, avocado, whole-wheat toast","Lentil soup, whole-wheat bread","Vegetable stir-fry, brown rice",Trail mix
+68,Male,170,85,Sedentary,Maintenance,Omnivore,1800,80,200,50,"Greek yogurt, fruit, granola","Tuna salad sandwich, whole-wheat bread","Chicken stir-fry, brown rice","Apple slices, peanut butter"
+35,Female,172,68,Very Active,Muscle Gain,Vegan,2400,140,280,70,"Tofu scramble, avocado, whole-wheat toast","Lentil, vegetable curry, brown rice","Chickpea pasta, tomato sauce, spinach","Nuts, seeds"
+55,Female,158,60,Sedentary,Weight Loss,Vegan,1500,60,160,40,"Oatmeal, plant-based milk, fruit","Lentil soup, whole-wheat bread","Vegetable curry, brown rice","Fruit, nuts"
+25,Female,165,55,Lightly Active,Weight Loss,Omnivore,1800,70,180,50,"Greek yogurt, berries, granola","Quinoa salad, grilled chicken, vegetables","Salmon, roasted vegetables, brown rice","Apple slices, almond butter"
+58,Male,180,90,Moderately Active,Maintenance,Vegetarian,2500,90,250,70,"Oatmeal, fruit, nuts","Lentil soup, whole-grain bread","Vegetable stir-fry, brown rice","Trail mix, dried fruit, nuts"
+32,Female,170,65,Sedentary,Weight Loss,Vegan,1500,60,150,40,"Tofu scramble, vegetables","Black bean burger, a whole-wheat bun","Lentil pasta, tomato sauce, vegetables","Fruit, vegetable smoothie"
+62,Male,175,85,Very Active,Maintenance,Omnivore,3000,120,300,80,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, steamed vegetables","Steak, sweet potato fries, a side salad",Protein bar
+28,Female,160,50,Lightly Active,Muscle Gain,Vegan,2000,80,200,60,"Tofu, vegetable stir-fry, brown rice","Lentil stew, whole-grain bread","Chickpea pasta, marinara sauce, vegetables","Whole-grain crackers, hummus"
+45,Male,185,100,Moderately Active,Weight Loss,Omnivore,2200,100,220,60,"Oatmeal, protein powder, fruit","Chicken breast, quinoa, steamed vegetables","Salmon, roasted vegetables, sweet potato","Greek yogurt, fruit, nuts"
+68,Female,162,60,Sedentary,Maintenance,Vegan,1800,70,180,50,"Tofu scramble, vegetables","Lentil soup, whole-grain bread","Vegetable curry, brown rice","Trail mix, dried fruit, nuts"
+35,Male,190,80,Very Active,Muscle Gain,Omnivore,3200,140,320,90,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, steamed vegetables","Steak, sweet potato fries, a side salad",Protein shake
+21,Female,172,58,Lightly Active,Weight Loss,Vegetarian,1700,65,170,45,"Yogurt parfait, granola, fruit","Black bean burger, a whole-wheat bun","Lentil pasta, tomato sauce, vegetables","Apple slices, almond butter"
+55,Male,178,82,Moderately Active,Maintenance,Vegan,2400,90,240,70,"Tofu, vegetable stir-fry, brown rice","Lentil stew, whole-grain bread","Chickpea pasta, marinara sauce, vegetables","Whole-grain crackers, hummus"
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2000,120,250,60,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Greek yogurt, fruit"
+32,Female,165,60,Lightly Active,Maintenance,Vegetarian,1800,80,220,50,"Tofu scramble, vegetables","Lentil soup, whole grain bread","Vegetable stir-fry, brown rice","Hummus, carrots, cucumber"
+55,Male,175,90,Sedentary,Weight Loss,Omnivore,1800,100,200,50,"Yogurt, granola, fruit","Tuna salad sandwich, whole wheat bread","Chicken breast, steamed vegetables",Trail mix
+68,Female,160,70,Sedentary,Maintenance,Vegan,1600,70,180,40,"Tofu, vegetable breakfast burrito","Black bean soup, whole grain bread","Lentil stew, brown rice","Fruit salad, nuts, seeds"
+28,Male,190,100,Very Active,Muscle Gain,Omnivore,3000,180,350,80,"Scrambled eggs, whole wheat toast","Chicken breast, brown rice, vegetables","Beef stir-fry, brown rice",Protein shake
+42,Female,170,75,Moderately Active,Weight Loss,Vegan,1500,80,180,40,"Overnight oats, chia seeds, fruit","Black bean burger, a whole grain bun","Lentil pasta, tomato sauce",Trail mix
+38,Male,185,95,Lightly Active,Muscle Gain,Omnivore,2800,160,300,70,"Protein pancakes, fruit","Chicken, vegetable fajitas","Steak, sweet potato, green beans",Protein bar
+52,Female,165,65,Sedentary,Weight Loss,Vegetarian,1400,70,150,30,"Yogurt, berries, granola","Lentil salad, mixed greens","Vegetarian chili, brown rice","Apple slices, peanut butter"
+22,Female,170,55,Very Active,Muscle Gain,Vegan,2500,120,280,60,"Tofu scramble, vegetables","Black bean burger, a whole grain bun","Lentil pasta, vegetables",Trail mix
+48,Male,175,80,Moderately Active,Maintenance,Omnivore,2200,100,250,60,"Oatmeal, fruit, nuts","Tuna salad sandwich, whole wheat bread","Chicken breast, roasted vegetables","Greek yogurt, fruit"
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Oatmeal, berries, nuts","Chicken breast salad, mixed greens, vegetables","Salmon, roasted vegetables, quinoa","Apple slices, almond butter"
+38,Female,165,68,Sedentary,Maintenance,Vegetarian,1800,80,200,50,"Tofu scramble, whole-wheat toast, avocado","Lentil soup, whole-wheat bread","Lentil, vegetable curry, brown rice","Fruit salad, yogurt"
+55,Male,175,90,Lightly Active,Weight Loss,Omnivore,2000,100,220,55,"Greek yogurt, fruit, granola","Chicken stir-fry, brown rice","Turkey meatballs, whole-wheat pasta","Trail mix, nuts, seeds"
+62,Female,160,75,Sedentary,Weight Loss,Vegan,1600,70,180,45,"Tofu, vegetable breakfast burrito","Black bean salad, mixed greens","Lentil, vegetable stew, whole-wheat bread","Fruit smoothie, plant-based milk"
+28,Male,190,100,Very Active,Muscle Gain,Omnivore,3000,180,350,80,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, sweet potato, broccoli","Steak, roasted vegetables, brown rice",Protein bar
+32,Female,170,65,Moderately Active,Muscle Gain,Vegetarian,2000,100,220,55,"Quinoa porridge, berries, nuts","Chickpea salad, whole-wheat bread","Lentil, vegetable curry, brown rice","Trail mix, nuts, seeds"
+68,Male,170,80,Lightly Active,Maintenance,Omnivore,1800,80,200,50,"Oatmeal, fruit, nuts","Tuna salad sandwich, whole-wheat bread","Chicken breast, steamed vegetables, brown rice","Trail mix, nuts, seeds"
+21,Female,165,55,Very Active,Muscle Gain,Vegan,2200,100,250,60,"Tofu scramble, whole-wheat toast, avocado","Chickpea salad, mixed greens","Lentil, vegetable curry, brown rice","Fruit smoothie, plant-based milk"
+45,Male,185,95,Moderately Active,Weight Loss,Omnivore,2000,100,220,55,"Greek yogurt, fruit, granola","Chicken stir-fry, brown rice","Salmon, roasted vegetables, quinoa","Trail mix, nuts, seeds"
+70,Female,155,60,Sedentary,Maintenance,Vegan,1400,60,160,40,"Tofu, vegetable breakfast burrito","Black bean salad, mixed greens","Lentil, vegetable stew, whole-wheat bread","Fruit smoothie, plant-based milk"
+25,Female,165,58,Moderately Active,Weight Loss,Omnivore,1800,80,200,60,"Overnight oats, berries, nuts","Lentil soup, whole wheat bread","Grilled salmon, quinoa, roasted vegetables","Fruit, yogurt"
+32,Male,180,90,Lightly Active,Muscle Gain,Vegetarian,2500,120,300,80,"Tofu scramble, whole wheat toast","Vegetarian chili, brown rice","Chickpea, vegetable curry, brown rice","Trail mix, nuts, seeds"
+55,Female,160,65,Sedentary,Weight Loss,Vegan,1500,60,150,40,"Tofu, vegetable stir-fry, brown rice","Vegan lentil soup, whole wheat bread","Vegan black bean burgers, whole wheat buns","Fruit, nut mix"
+48,Male,185,105,Very Active,Muscle Gain,Omnivore,3200,160,400,100,"Greek yogurt, fruit, granola","Chicken breast salad, mixed greens","Grilled chicken, sweet potato, broccoli","Protein shake, fruit"
+38,Male,175,75,Moderately Active,Weight Loss,Vegetarian,2000,90,220,70,"Scrambled eggs, whole wheat toast","Vegetarian burrito bowl, brown rice","Lentil stew, whole wheat bread","Apple slices, peanut butter"
+21,Female,170,60,Lightly Active,Muscle Gain,Omnivore,2200,100,250,80,"Oatmeal, protein powder, fruit","Chicken breast salad, mixed greens","Chicken stir-fry, brown rice",Protein bar
+58,Male,178,80,Sedentary,Maintenance,Omnivore,2000,80,200,60,"Yogurt, granola, fruit","Tuna salad sandwich, whole wheat bread","Baked chicken, roasted vegetables","Fruit, cheese"
+70,Female,162,68,Sedentary,Weight Loss,Vegan,1400,50,140,40,"Vegan breakfast burrito, tofu, vegetables","Vegan chili, brown rice","Lentil stew, whole wheat bread","Fruit, nut mix"
+42,Male,190,100,Very Active,Muscle Gain,Vegetarian,3000,150,350,90,"Tofu scramble, avocado, whole wheat toast","Vegetarian pasta, marinara sauce","Chickpea, vegetable curry, brown rice","Protein shake, fruit"
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Greek yogurt, berries, granola","Grilled chicken salad, mixed greens","Lentil soup, whole-wheat bread","Apple, peanut butter"
+62,Female,165,70,Lightly Active,Maintenance,Vegan,1800,70,200,50,"Tofu scramble, vegetables","Lentil, vegetable curry, brown rice","Black bean burgers, sweet potato fries",Almonds
+38,Male,190,95,Very Active,Muscle Gain,Omnivore,3000,180,350,80,"Oatmeal, protein powder, fruit","Chicken breast, quinoa, vegetables","Salmon, roasted vegetables",Protein shake
+45,Female,170,65,Sedentary,Weight Loss,Vegetarian,1600,80,180,40,"Scrambled eggs, whole-wheat toast","Lentil soup, whole-wheat bread","Vegetarian chili, brown rice","Yogurt, fruit, granola"
+22,Female,160,55,Moderately Active,Weight Loss,Vegan,1800,70,200,50,"Tofu scramble, vegetables","Lentil, vegetable curry, brown rice","Black bean burgers, sweet potato fries",Almonds
+58,Male,175,80,Moderately Active,Maintenance,Omnivore,2000,100,220,60,"Greek yogurt, fruit, granola","Turkey sandwich, whole-wheat bread","Salmon, roasted vegetables",Trail mix
+30,Male,185,90,Very Active,Muscle Gain,Omnivore,2800,160,300,70,"Oatmeal, protein powder, fruit","Chicken stir-fry, brown rice","Steak, sweet potatoes, broccoli",Protein shake
+28,Female,170,60,Sedentary,Weight Loss,Vegetarian,1500,70,160,40,"Scrambled eggs, whole-wheat toast","Vegetarian chili, brown rice","Chickpea, vegetable curry, brown rice","Yogurt, fruit, granola"
+68,Female,155,60,Lightly Active,Maintenance,Vegan,1700,60,180,40,"Tofu scramble, vegetables","Lentil, vegetable curry, brown rice","Black bean burgers, sweet potato fries",Almonds
+42,Male,180,80,Very Active,Muscle Gain,Omnivore,2600,150,280,70,"Greek yogurt, fruit, granola","Chicken, vegetable stir-fry, brown rice","Tuna salad, whole-wheat bread",Protein shake
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2000,125,250,60,"Greek yogurt, berries, granola","Chicken stir fry, brown rice, vegetables","Salmon, roasted vegetables, quinoa","Apple slices, almond butter"
+32,Female,165,60,Lightly Active,Maintenance,Vegetarian,1800,90,225,50,"Tofu scramble, whole-wheat toast, avocado","Lentil soup, whole-wheat bread, salad","Vegetable curry, brown rice","Trail mix, nuts, dried fruit"
+58,Male,175,95,Sedentary,Weight Loss,Omnivore,1800,115,225,55,"Oatmeal, fruit, nuts","Tuna salad sandwich, whole-wheat bread, salad","Chicken breast, steamed vegetables, brown rice","Greek yogurt, fruit"
+28,Female,170,70,Very Active,Muscle Gain,Vegan,2500,150,300,80,"Tofu scramble, whole-wheat toast, avocado","Lentil soup, whole-wheat bread, salad","Chickpea, vegetable curry, brown rice","Trail mix, nuts, seeds"
+62,Female,160,75,Sedentary,Weight Loss,Vegan,1600,80,200,40,"Overnight oats, fruit, chia seeds","Black bean burger, whole-wheat bun, salad","Lentil stew, whole-grain bread","Apple slices, almond butter"
+40,Male,185,90,Moderately Active,Muscle Gain,Omnivore,2800,175,350,90,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, vegetables","Steak, roasted vegetables, sweet potato","Protein shake, fruit"
+35,Female,168,55,Lightly Active,Maintenance,Omnivore,1900,100,230,60,"Yogurt, fruit, granola","Turkey sandwich, whole-wheat bread, salad","Salmon, roasted vegetables, quinoa","Apple slices, almond butter"
+22,Male,190,100,Very Active,Weight Loss,Vegetarian,2200,130,275,70,"Oatmeal, fruit, nuts","Bean burrito, brown rice, salsa","Chickpea pasta, vegetable sauce","Trail mix, nuts, seeds"
+65,Male,170,80,Sedentary,Maintenance,Omnivore,1700,95,210,50,"Breakfast burrito, eggs, vegetables","Turkey sandwich, whole-wheat bread, salad","Chicken stir fry, brown rice, vegetables","Greek yogurt, fruit"
+48,Female,163,65,Lightly Active,Weight Loss,Vegan,1500,75,185,40,"Overnight oats, fruit, chia seeds","Vegetable stir fry, brown rice","Black bean soup, whole-grain bread","Trail mix, nuts, dried fruit"
+25,Male,185,85,Moderately Active,Weight Loss,Omnivore,2200,150,250,60,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Greek yogurt, fruit"
+38,Female,165,65,Lightly Active,Muscle Gain,Vegetarian,2000,120,200,50,"Tofu scramble, vegetables","Lentil soup, whole-grain bread","Chickpea, vegetable curry",Almonds
+62,Female,160,70,Sedentary,Maintenance,Vegan,1800,80,220,50,"Tofu, vegetable stir-fry","Vegan chili, brown rice","Black bean burgers, sweet potato fries","Fruit, vegetable salad"
+45,Male,190,95,Very Active,Muscle Gain,Omnivore,3000,200,350,80,"Scrambled eggs, whole-wheat toast","Chicken breast, brown rice, broccoli","Beef stir-fry, brown rice",Protein shake
+28,Female,170,58,Moderately Active,Weight Loss,Omnivore,1800,100,200,50,"Yogurt, granola, fruit","Tuna salad sandwich, whole-grain bread","Chicken stir-fry, brown rice","Apple, almond butter"
+55,Male,175,80,Sedentary,Weight Loss,Omnivore,1800,110,220,50,"Oatmeal, fruit, nuts","Turkey breast sandwich, whole-grain bread","Lentil soup, whole-grain bread",Trail mix
+22,Female,168,62,Lightly Active,Muscle Gain,Vegan,2000,100,250,50,"Tofu scramble, vegetables","Chickpea pasta, marinara sauce",Vegan lentil stew,"Fruit, vegetable salad"
+30,Male,180,78,Moderately Active,Muscle Gain,Omnivore,2500,180,300,70,"Greek yogurt, fruit, granola","Chicken breast, sweet potato, broccoli","Steak, roasted vegetables",Protein bar
+68,Male,170,75,Sedentary,Maintenance,Omnivore,1600,80,180,40,"Eggs, whole-wheat toast","Chicken salad sandwich, whole-grain bread","Salmon, vegetables","Fruit, nuts"
+35,Female,175,72,Very Active,Weight Loss,Vegetarian,2000,120,240,60,"Tofu scramble, vegetables","Chickpea pasta salad, vegetables","Black bean burgers, sweet potato fries","Fruit, vegetable salad"
+25,Female,165,55,Lightly Active,Weight Loss,Omnivore,1800,80,200,60,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Lentil soup, whole wheat bread","Greek yogurt, fruit"
+32,Male,180,85,Moderately Active,Muscle Gain,Omnivore,2800,150,300,80,"Scrambled eggs, whole wheat toast","Chicken breast, brown rice, vegetables","Salmon, sweet potato, broccoli",Protein shake
+55,Female,160,68,Sedentary,Weight Loss,Vegetarian,1500,70,150,40,"Tofu scramble, whole wheat toast","Black bean burger, a whole wheat bun","Lentil stew, brown rice","Fruit salad, yogurt"
+28,Male,190,95,Very Active,Muscle Gain,Vegan,3200,180,400,100,"Tofu scramble, vegetables","Lentil, vegetable curry, brown rice","Chickpea pasta, marinara sauce","Trail mix, dried fruit, nuts"
+62,Male,175,80,Lightly Active,Maintenance,Omnivore,2200,100,250,60,"Greek yogurt, fruit, granola","Tuna salad sandwich, whole wheat bread","Chicken stir-fry, brown rice","Mixed nuts, seeds"
+21,Female,170,60,Moderately Active,Weight Loss,Vegan,1600,70,180,50,"Tofu, vegetable stir-fry","Black bean, sweet potato burrito","Lentil soup, whole wheat bread","Fruit, nut butter"
+48,Female,168,75,Sedentary,Maintenance,Vegetarian,1800,80,200,60,"Tofu scramble, whole wheat toast","Vegetarian chili, brown rice","Lentil, vegetable curry, brown rice","Fruit, yogurt"
+35,Male,185,100,Very Active,Muscle Gain,Omnivore,3000,160,350,90,"Oatmeal, protein powder","Chicken breast, quinoa, vegetables","Beef stir-fry, brown rice",Protein shake
+40,Male,178,88,Moderately Active,Muscle Gain,Omnivore,2600,140,280,80,"Scrambled eggs, whole wheat toast","Chicken, vegetable skewers","Salmon, roasted vegetables",Protein bar
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2200,120,200,60,"Oatmeal, berries, nuts","Grilled chicken salad, quinoa","Salmon, roasted vegetables","Apple, peanut butter"
+32,Female,165,68,Lightly Active,Muscle Gain,Vegetarian,2000,100,250,60,"Tofu scramble, vegetables","Lentil soup, whole-wheat bread","Chickpea curry, brown rice","Mixed nuts, dried fruit"
+55,Male,175,95,Sedentary,Maintenance,Omnivore,2000,80,250,60,"Greek yogurt, fruit, granola","Chicken stir-fry, brown rice","Tuna salad sandwich, whole-wheat bread",Banana
+28,Female,170,72,Very Active,Weight Loss,Vegan,1800,80,180,50,"Tofu, vegetable breakfast burrito","Lentil, vegetable stew","Tofu stir-fry, brown rice","Fruit salad, nuts"
+62,Female,160,65,Lightly Active,Weight Loss,Vegan,1600,60,150,40,"Overnight oats, berries, chia seeds","Lentil, vegetable soup","Black bean burgers, sweet potato fries",Trail mix
+40,Male,185,90,Moderately Active,Muscle Gain,Omnivore,2500,150,300,80,"Scrambled eggs, whole-wheat toast","Chicken breast, brown rice, vegetables","Steak, sweet potato, asparagus",Protein bar
+38,Female,172,78,Sedentary,Maintenance,Omnivore,1800,80,200,60,"Smoothie, fruit, protein powder","Chicken, vegetable soup","Quinoa salad, grilled chicken","Greek yogurt, fruit"
+22,Male,190,105,Very Active,Muscle Gain,Vegan,2800,130,350,90,"Tofu scramble, vegetables, whole-wheat toast","Lentil pasta, vegan cheese","Tofu, vegetable stir-fry, brown rice","Rice cakes, peanut butter"
+19,Female,168,55,Moderately Active,Weight Loss,Vegetarian,1800,70,180,50,"Oatmeal, fruit, nuts","Quinoa salad, grilled tofu","Vegetable curry, brown rice","Hummus, vegetables"
+45,Male,178,82,Lightly Active,Muscle Gain,Omnivore,2300,110,270,70,"Greek yogurt, fruit, granola","Chicken breast, brown rice, vegetables","Salmon, roasted vegetables",Protein shake
+25,Female,165,58,Lightly Active,Weight Loss,Omnivore,1800,80,200,60,"Oatmeal, berries, nuts","Lentil soup, whole wheat bread","Grilled chicken salad, quinoa","Apple, peanut butter"
+32,Male,180,85,Moderately Active,Muscle Gain,Omnivore,2800,150,300,80,"Scrambled eggs, whole wheat toast, avocado","Chicken breast, brown rice, steamed vegetables","Salmon, roasted vegetables",Protein shake
+58,Female,160,70,Sedentary,Weight Loss,Vegetarian,1500,70,150,40,"Tofu scramble, whole wheat toast, fruit","Lentil stew, whole wheat bread","Vegetable curry, brown rice","Greek yogurt, fruit"
+65,Male,175,90,Lightly Active,Maintenance,Vegan,2200,80,250,60,"Tofu scramble, whole wheat toast, fruit","Lentil soup, whole wheat bread","Chickpea, vegetable curry, brown rice",Trail mix
+42,Female,170,65,Moderately Active,Weight Loss,Vegan,1900,70,220,50,"Oatmeal, fruit, nuts","Vegetable stir-fry, brown rice","Lentil pasta, marinara sauce","Banana, almond butter"
+38,Male,185,95,Very Active,Muscle Gain,Omnivore,3200,170,350,90,"Greek yogurt, fruit, granola","Chicken breast, brown rice, steamed vegetables","Steak, baked potato, salad",Protein bar
+28,Female,162,55,Sedentary,Weight Loss,Vegetarian,1600,65,180,45,"Scrambled eggs, whole wheat toast, fruit","Lentil soup, whole wheat bread","Vegetable lasagna, salad","Fruit salad, yogurt"
+62,Male,170,80,Moderately Active,Maintenance,Vegan,2000,75,220,55,"Tofu scramble, whole wheat toast, fruit","Lentil soup, whole wheat bread","Chickpea, vegetable curry, brown rice",Trail mix
+21,Female,158,48,Lightly Active,Weight Loss,Omnivore,1500,60,170,45,"Oatmeal, berries, nuts","Chicken salad sandwich, whole wheat bread","Grilled chicken, roasted vegetables","Greek yogurt, fruit"
+55,Male,178,88,Sedentary,Maintenance,Vegetarian,1900,70,200,55,"Tofu scramble, whole wheat toast, fruit","Lentil soup, whole wheat bread","Vegetable stir-fry, brown rice",Trail mix
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2000,120,180,50,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Lentil soup, whole-wheat bread","Apple, peanut butter"
+32,Female,165,65,Sedentary,Maintenance,Vegetarian,1800,80,220,60,"Tofu scramble, whole-wheat toast","Lentil, vegetable curry, brown rice","Vegetable stir-fry, brown rice",Trail mix
+55,Female,160,75,Lightly Active,Weight Loss,Vegan,1600,70,150,40,"Tofu, vegetable breakfast burrito","Lentil, vegetable stew, brown rice","Chickpea pasta, tomato sauce, vegetables","Fruit, nut mix"
+40,Male,190,95,Very Active,Muscle Gain,Omnivore,3000,180,270,80,"Greek yogurt, fruit, granola","Chicken breast, brown rice, roasted vegetables","Salmon, quinoa, steamed vegetables",Protein shake
+62,Male,175,85,Sedentary,Maintenance,Omnivore,2200,100,200,70,"Eggs, whole-wheat toast","Tuna salad sandwich, whole-wheat bread","Chicken stir-fry, brown rice","Banana, almond butter"
+28,Female,170,55,Moderately Active,Muscle Gain,Vegetarian,2400,110,240,70,"Tofu scramble, whole-wheat toast","Bean burrito, brown rice","Vegetable stir-fry, tofu, brown rice","Fruit, nut mix"
+35,Male,185,110,Very Active,Weight Loss,Omnivore,2500,150,200,60,"Oatmeal, protein powder, berries","Turkey sandwich, whole-wheat bread","Chicken breast, roasted vegetables, quinoa","Greek yogurt, fruit, nuts"
+22,Female,160,50,Lightly Active,Muscle Gain,Vegan,2200,100,220,60,"Tofu, vegetable breakfast burrito","Lentil, vegetable stew, brown rice","Chickpea pasta, tomato sauce, vegetables","Fruit, nut mix"
+48,Male,180,90,Moderately Active,Weight Loss,Omnivore,2100,130,170,50,"Greek yogurt, fruit, granola","Turkey sandwich, whole-wheat bread","Salmon, roasted vegetables, brown rice",Trail mix
+58,Female,155,60,Sedentary,Maintenance,Vegan,1500,60,130,40,"Tofu, vegetable scramble, whole-wheat toast","Lentil, vegetable soup, whole-wheat bread","Chickpea pasta, tomato sauce, vegetables","Fruit, nuts"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,120,200,60,"Greek yogurt, berries, granola","Grilled chicken salad, mixed greens, vegetables","Salmon, roasted vegetables, quinoa","Apple slices, peanut butter"
+32,Female,165,65,Lightly Active,Weight Loss,Vegetarian,1800,80,180,50,"Tofu scramble, spinach, avocado","Lentil soup, wholegrain bread","Chickpea pasta, vegetable sauce","Trail mix, nuts, seeds"
+55,Male,175,95,Sedentary,Maintenance,Omnivore,2400,100,250,70,"Oatmeal, fruit, nuts","Chicken stir-fry, brown rice","Roast beef, mashed potatoes, peas","Popcorn, a touch of olive oil"
+28,Female,170,72,Very Active,Muscle Gain,Vegan,2600,130,280,70,"Tofu, vegetable scramble, wholegrain toast","Lentil stew, brown rice","Black bean burgers, wholegrain buns","Smoothie, protein powder, fruit"
+62,Female,160,60,Sedentary,Weight Loss,Vegan,1600,60,150,40,"Oatmeal, berries, flax seeds","Lentil soup, wholegrain bread","Tofu stir-fry, brown rice","Almond milk, banana, chia seeds"
+38,Male,190,105,Moderately Active,Muscle Gain,Omnivore,3000,160,300,90,"Eggs, wholegrain toast, avocado","Chicken breast, brown rice, vegetables","Steak, sweet potato, green beans","Greek yogurt, fruit, nuts"
+22,Female,168,58,Lightly Active,Maintenance,Vegetarian,1900,70,200,60,"Breakfast burrito, beans, vegetables","Chickpea salad sandwich, wholegrain bread","Tofu stir-fry, brown rice","Hummus, wholegrain crackers"
+40,Male,178,85,Very Active,Weight Loss,Vegan,2400,120,220,60,"Tofu scramble, spinach, avocado","Lentil stew, brown rice","Black bean burgers, wholegrain buns","Popcorn, a touch of olive oil"
+27,Female,172,68,Moderately Active,Weight Loss,Omnivore,1900,90,180,50,"Greek yogurt, berries, granola","Grilled chicken salad, mixed greens, vegetables","Salmon, roasted vegetables, quinoa","Apple slices, peanut butter"
+58,Male,182,100,Lightly Active,Maintenance,Vegan,2200,80,200,60,"Oatmeal, berries, flax seeds","Lentil soup, wholegrain bread","Tofu stir-fry, brown rice","Almond milk, banana, chia seeds"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Greek yogurt, berries, granola","Chicken breast salad, mixed greens","Salmon, roasted vegetables","Apple, peanut butter"
+32,Female,165,65,Sedentary,Maintenance,Vegetarian,1800,80,200,50,"Tofu scramble, vegetables","Lentil soup, whole-wheat bread","Vegetarian chili, brown rice",Trail mix
+58,Female,160,70,Lightly Active,Weight Loss,Vegan,1600,70,180,40,"Oatmeal, fruit, nuts","Black bean burger, whole-wheat bun","Lentil stew, brown rice","Banana, almond butter"
+40,Male,190,95,Very Active,Muscle Gain,Omnivore,3000,180,350,80,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, vegetables","Steak, sweet potato, green beans",Protein shake
+62,Male,175,85,Lightly Active,Weight Loss,Vegetarian,1800,80,200,50,"Greek yogurt, fruit, granola","Black bean burger, whole-wheat bun","Vegetarian chili, brown rice","Apple, peanut butter"
+38,Female,170,75,Moderately Active,Maintenance,Vegan,2000,80,220,60,"Tofu scramble, vegetables","Lentil soup, whole-wheat bread","Vegetable stir-fry, brown rice",Trail mix
+28,Male,185,90,Very Active,Muscle Gain,Omnivore,3200,200,400,90,"Oatmeal, protein powder, fruit","Chicken breast, brown rice, vegetables","Steak, sweet potato, green beans",Protein shake
+55,Female,155,60,Sedentary,Weight Loss,Vegan,1400,60,160,30,"Oatmeal, fruit, nuts","Black bean burger, whole-wheat bun","Lentil stew, brown rice","Banana, almond butter"
+70,Male,170,75,Lightly Active,Maintenance,Omnivore,1800,80,200,50,"Scrambled eggs, whole-wheat toast, avocado","Tuna salad sandwich, whole-wheat bread","Chicken breast, vegetables","Yogurt, fruit"
+22,Female,168,55,Moderately Active,Weight Loss,Vegetarian,1600,70,180,40,"Greek yogurt, fruit, granola","Black bean burger, whole-wheat bun","Vegetarian chili, brown rice","Apple, peanut butter"
+25,Female,165,55,Moderately Active,Weight Loss,Omnivore,1800,75,200,60,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Greek yogurt, fruit"
+32,Male,180,85,Lightly Active,Muscle Gain,Omnivore,2800,150,300,80,"Scrambled eggs, whole-wheat toast","Chicken breast, brown rice, quinoa","Steak, sweet potato fries",Protein shake
+58,Female,160,68,Sedentary,Weight Loss,Vegetarian,1500,60,170,40,"Tofu scramble, vegetables","Black bean burger, a whole-wheat bun","Lentil soup, whole-grain bread","Fruit salad, nuts"
+40,Male,190,95,Very Active,Muscle Gain,Omnivore,3500,200,400,100,"Protein pancakes, fruit","Chicken stir-fry, brown rice","Chicken breast, sweet potato, broccoli",Protein bar
+62,Female,155,50,Sedentary,Weight Loss,Vegan,1400,50,150,30,"Tofu scramble, vegetables","Vegetable stir-fry, rice noodles","Lentil soup, whole-grain bread","Fruit salad, nuts"
+28,Male,175,70,Moderately Active,Maintenance,Omnivore,2500,100,250,70,"Greek yogurt, fruit, granola","Chicken, vegetable wrap","Salmon, roasted vegetables",Trail mix
+65,Male,170,75,Lightly Active,Weight Loss,Omnivore,1700,70,180,50,"Oatmeal, berries, nuts","Tuna salad sandwich, whole-wheat bread","Chicken breast, roasted vegetables","Yogurt parfait, granola"
+35,Female,168,60,Very Active,Muscle Gain,Vegan,2500,100,300,70,"Tofu scramble, vegetables","Chickpea pasta, vegetable sauce","Lentil stew, whole-grain bread",Trail mix
+48,Male,185,100,Moderately Active,Weight Loss,Omnivore,2200,90,220,60,"Scrambled eggs, whole-wheat toast","Chicken breast, mixed greens salad","Salmon, roasted vegetables","Fruit, nut mix"
+22,Female,170,58,Lightly Active,Maintenance,Vegetarian,2000,80,200,60,"Yogurt, fruit, granola","Bean burrito, brown rice","Lentil soup, whole-grain bread","Fruit, nut mix"
+25,Female,165,55,Moderately Active,Weight Loss,Omnivore,1800,100,200,60,"Greek yogurt, berries, granola","Chicken breast salad, mixed greens, avocado","Salmon, roasted vegetables, quinoa","Apple, peanut butter"
+38,Male,180,85,Lightly Active,Muscle Gain,Omnivore,2800,160,300,80,"Oatmeal, protein powder, banana","Chicken stir-fry, brown rice","Beef, vegetable skewers, sweet potato fries",Protein bar
+55,Female,160,65,Sedentary,Weight Loss,Vegetarian,1500,75,150,45,"Tofu scramble, vegetables, whole wheat toast","Lentil soup, whole grain bread","Tofu stir-fry, brown rice","Fruit, nuts"
+62,Male,175,90,Moderately Active,Maintenance,Vegan,2400,120,280,70,"Tofu, vegetable scramble, avocado toast","Lentil, vegetable curry, brown rice","Vegan chili, whole grain bread","Mixed nuts, dried fruit"
+28,Female,170,60,Very Active,Muscle Gain,Vegan,2500,140,300,70,"Tofu, vegetable breakfast burrito","Lentil, chickpea salad, whole grain pita","Vegan pasta, vegetables, cashew cream sauce",Trail mix
+42,Male,185,95,Lightly Active,Muscle Gain,Omnivore,2600,150,280,80,"Scrambled eggs, whole wheat toast, smoked salmon","Chicken breast, brown rice, roasted vegetables","Steak, sweet potato fries","Greek yogurt, fruit, granola"
+58,Female,155,50,Sedentary,Weight Loss,Vegetarian,1400,70,140,40,"Oatmeal, berries, nuts","Lentil, vegetable soup, whole grain bread","Quinoa salad, grilled vegetables","Fruit, cottage cheese"
+33,Male,190,100,Moderately Active,Maintenance,Vegan,2600,130,300,70,"Tofu, vegetable stir-fry, brown rice","Lentil, vegetable curry, brown rice, naan bread","Vegan pizza, vegetables, cashew cheese","Fruit, nuts"
+21,Female,168,58,Very Active,Muscle Gain,Omnivore,2400,130,280,70,"Greek yogurt, berries, granola","Chicken breast salad, mixed greens, avocado","Salmon, roasted vegetables, brown rice",Protein bar
+68,Male,170,75,Lightly Active,Weight Loss,Omnivore,1800,90,180,50,"Eggs, whole wheat toast, avocado","Chicken breast, brown rice, steamed vegetables","Fish, roasted vegetables, quinoa","Fruit, cottage cheese"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Greek yogurt, berries, granola","Chicken breast salad, mixed greens, avocado","Salmon, roasted vegetables","Apple, almond butter"
+38,Female,165,65,Lightly Active,Maintenance,Vegetarian,1800,80,200,50,"Tofu scramble, vegetables, whole wheat toast","Lentil soup, whole wheat bread","Vegetarian chili, brown rice","Trail mix, nuts, dried fruit"
+62,Male,175,90,Sedentary,Weight Loss,Omnivore,1800,100,200,50,"Oatmeal, fruit, nuts","Tuna salad sandwich, whole wheat bread","Chicken stir-fry, brown rice","Mixed nuts, dried fruit"
+45,Female,170,75,Very Active,Muscle Gain,Vegan,2500,140,300,80,"Tofu scramble, vegetables, avocado toast","Chickpea pasta salad, roasted vegetables","Lentil, vegetable curry, brown rice","Banana, peanut butter"
+58,Male,185,105,Moderately Active,Weight Loss,Omnivore,2000,110,220,60,"Eggs, whole wheat toast, avocado","Turkey breast sandwich, mixed greens","Chicken, vegetable stir-fry","Greek yogurt, berries"
+22,Female,160,50,Lightly Active,Weight Loss,Vegan,1600,70,180,40,"Overnight oats, chia seeds, fruit","Black bean burger, whole wheat bun, salad","Lentil, vegetable stew, whole wheat bread","Apple slices, almond butter"
+70,Female,155,55,Sedentary,Weight Loss,Vegetarian,1400,70,160,40,"Fruit, yogurt parfait","Mixed greens salad, chickpeas, tahini dressing","Tofu, vegetable stir-fry, brown rice","Almonds, dried fruit"
+30,Male,190,95,Very Active,Muscle Gain,Omnivore,3000,180,350,100,"Pancakes, fruit, nuts","Chicken, rice bowl, vegetables","Steak, sweet potato, asparagus","Protein shake, fruit, greens"
+42,Female,168,60,Moderately Active,Maintenance,Vegan,1800,80,200,50,"Tofu scramble, vegetables, avocado toast","Lentil, vegetable soup, whole wheat bread","Tempeh stir-fry, brown rice","Fruit salad, nuts, seeds"
+55,Male,178,85,Sedentary,Weight Loss,Omnivore,1800,100,200,50,"Oatmeal, fruit, nuts","Tuna salad sandwich, whole wheat bread","Chicken breast, roasted vegetables","Dark chocolate, almonds"
+25,Female,165,58,Moderately Active,Weight Loss,Omnivore,1800,100,200,60,"Greek yogurt, berries, granola","Lentil soup, whole wheat bread","Salmon, roasted vegetables","Fruit, nuts"
+38,Male,180,85,Lightly Active,Maintenance,Vegetarian,2500,120,300,80,"Tofu scramble, veggies","Lentil salad, quinoa, avocado","Black bean burger, sweet potato fries",Trail mix
+55,Female,160,70,Sedentary,Weight Loss,Vegan,1500,80,150,50,"Tofu, vegetable stir-fry","Lentil soup, whole grain bread","Vegetable curry, brown rice","Fruit, nuts"
+62,Male,175,95,Moderately Active,Maintenance,Omnivore,2800,140,350,100,"Oatmeal, fruit, nuts","Chicken stir-fry, brown rice","Chicken breast, roasted vegetables","Yogurt, granola"
+28,Female,170,65,Very Active,Muscle Gain,Vegetarian,2400,130,300,80,"Tofu, vegetable scramble","Quinoa salad, chickpeas, avocado","Vegetarian chili, brown rice",Protein smoothie
+32,Male,185,90,Lightly Active,Weight Loss,Omnivore,2200,110,250,70,"Eggs, whole wheat toast","Chicken salad, whole grain bread","Chicken breast, baked potato","Apple, peanut butter"
+58,Female,155,62,Sedentary,Weight Loss,Vegan,1400,70,140,40,"Tofu, vegetable stir-fry","Lentil soup, whole grain bread","Vegetable curry, brown rice","Fruit, nuts"
+40,Male,190,110,Very Active,Muscle Gain,Omnivore,3200,160,400,120,"Oatmeal, protein powder, fruit","Chicken breast, brown rice","Steak, sweet potato fries",Protein shake
+21,Female,168,55,Lightly Active,Maintenance,Vegan,2000,90,220,60,"Tofu, vegetable scramble","Lentil soup, whole grain bread","Vegetable curry, brown rice","Fruit, nuts"
+70,Male,170,75,Sedentary,Maintenance,Omnivore,2000,100,250,70,"Greek yogurt, fruit, granola","Chicken salad, whole grain bread","Chicken breast, roasted vegetables",Trail mix
+25,Male,180,80,Moderately Active,Muscle Gain,Omnivore,2800,180,350,80,"Greek yogurt, berries, granola","Chicken breast, brown rice, roasted vegetables","Salmon, quinoa, steamed broccoli",Protein shake
+32,Female,165,65,Lightly Active,Weight Loss,Vegetarian,1800,100,200,50,"Oatmeal, fruit, nuts","Lentil soup, whole-wheat bread","Tofu stir-fry, brown rice","Fruit, yogurt"
+58,Male,175,90,Sedentary,Weight Loss,Omnivore,2000,120,250,60,"Scrambled eggs, whole-wheat toast","Chicken salad sandwich, whole-wheat bread","Baked chicken, sweet potato, green beans",Trail mix
+62,Female,160,70,Moderately Active,Maintenance,Vegan,1900,90,220,60,"Tofu scramble, vegetables, whole-wheat toast","Black bean burger, a whole-wheat bun, salad","Lentil stew, brown rice","Fruit, nuts"
+28,Male,190,100,Very Active,Muscle Gain,Omnivore,3200,200,400,100,"Oatmeal, protein powder, fruit","Chicken breast, sweet potato, roasted vegetables","Steak, quinoa, steamed broccoli",Protein bar
+45,Female,170,75,Lightly Active,Weight Loss,Vegetarian,1600,80,180,40,"Greek yogurt, fruit, granola","Quinoa salad, vegetables","Lentil soup, whole-wheat bread","Fruit, nuts"
+30,Male,185,95,Moderately Active,Muscle Gain,Vegan,2800,180,350,80,"Tofu scramble, vegetables, whole-wheat toast","Chickpea pasta, vegetables, vegan cheese","Lentil stew, brown rice",Protein shake
+65,Female,155,60,Sedentary,Maintenance,Omnivore,1700,80,200,50,"Scrambled eggs, whole-wheat toast","Tuna salad sandwich, whole-wheat bread","Baked fish, steamed vegetables","Fruit, yogurt"
+22,Female,168,55,Very Active,Muscle Gain,Vegetarian,2400,140,300,70,"Oatmeal, protein powder, fruit","Bean burrito, brown rice",Vegetarian chili,Protein bar
+50,Male,170,85,Lightly Active,Weight Loss,Vegan,1900,100,220,60,"Tofu scramble, vegetables, whole-wheat toast","Lentil soup, whole-wheat bread",Vegan lasagna,"Fruit, nuts"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2000,150,250,60,"Oatmeal, berries, nuts","Grilled chicken salad, quinoa","Salmon, roasted vegetables","Greek yogurt, fruit"
+32,Female,165,60,Sedentary,Maintenance,Vegetarian,1800,100,220,50,"Tofu scramble, vegetables","Lentil soup, whole-wheat bread","Vegetable stir-fry, brown rice","Trail mix, nuts, seeds"
+55,Male,175,90,Lightly Active,Weight Loss,Omnivore,1800,130,200,60,"Scrambled eggs, whole-wheat toast","Chicken, vegetable stir-fry, brown rice","Turkey chili, cornbread","Apple slices, peanut butter"
+28,Female,170,70,Very Active,Muscle Gain,Vegan,2500,175,350,80,"Tofu, vegetable stir-fry, brown rice","Black bean burger, whole-wheat bun","Lentil, vegetable curry","Protein smoothie, fruit"
+40,Male,190,110,Moderately Active,Weight Loss,Omnivore,2200,160,280,70,"Greek yogurt, granola, berries","Chicken breast, roasted vegetables, quinoa","Turkey meatballs, spaghetti squash","Trail mix, nuts, seeds"
+62,Female,160,55,Sedentary,Maintenance,Vegan,1500,80,180,40,"Tofu scramble, vegetables","Vegetable soup, whole-wheat bread","Lentil, vegetable curry","Fruit salad, nuts"
+22,Male,185,95,Very Active,Muscle Gain,Omnivore,3000,200,400,100,"Oatmeal, protein powder","Chicken breast, brown rice, vegetables","Steak, sweet potato, asparagus",Protein bar
+38,Female,168,65,Lightly Active,Weight Loss,Vegan,1600,100,200,50,"Tofu scramble, vegetables","Black bean burger, whole-wheat bun","Vegetable stir-fry, brown rice","Fruit, almonds"
+27,Female,172,75,Moderately Active,Maintenance,Vegetarian,2000,120,250,60,"Scrambled eggs, whole-wheat toast","Lentil soup, whole-wheat bread","Vegetable curry, brown rice","Trail mix, nuts, seeds"
+45,Male,180,100,Very Active,Weight Loss,Omnivore,2400,180,300,80,"Greek yogurt, fruit, granola","Chicken breast, roasted vegetables, quinoa","Salmon, asparagus, sweet potato","Protein shake, fruit"
+32,Female,165,65,Lightly Active,Maintenance,Vegetarian,1800,80,200,50,"Tofu scramble, vegetables","Lentil soup, whole-wheat bread","Vegetarian chili, brown rice","Apple slices, almond butter"
+55,Male,175,90,Sedentary,Weight Loss,Omnivore,1800,100,200,50,"Whole-wheat toast, egg, avocado","Chicken, vegetable stir-fry","Baked chicken, sweet potato, green beans",Trail mix
+28,Female,170,70,Very Active,Muscle Gain,Vegan,2500,150,300,70,"Tofu scramble, spinach, mushrooms","Lentil, vegetable curry, brown rice","Tofu stir-fry, brown rice, vegetables","Banana, peanut butter"
+48,Female,160,60,Sedentary,Maintenance,Vegan,1600,70,180,40,"Overnight oats, fruit, nuts","Lentil soup, whole-wheat bread","Vegetable stir-fry, tofu","Apple slices, almond butter"
+62,Male,170,85,Lightly Active,Weight Loss,Omnivore,1800,100,200,50,"Greek yogurt, fruit, granola","Tuna salad sandwich, whole-wheat bread","Grilled chicken, roasted vegetables","Popcorn, a sprinkle of parmesan cheese"
+22,Female,168,55,Moderately Active,Muscle Gain,Vegetarian,2200,120,250,60,"Quinoa breakfast bowl, berries, nuts","Chickpea, vegetable stew","Bean, vegetable burrito","Trail mix, dried fruit, nuts"
+38,Male,185,100,Very Active,Muscle Gain,Omnivore,3000,180,350,80,"Oatmeal, protein powder, fruit","Chicken, vegetable stir-fry, brown rice","Steak, sweet potato, asparagus","Trail mix, dried fruit, nuts"
+21,Female,158,50,Moderately Active,Weight Loss,Vegan,1800,80,200,50,"Tofu scramble, vegetables","Lentil, vegetable curry, brown rice","Tofu stir-fry, brown rice, vegetables","Banana, peanut butter"
+58,Female,163,75,Sedentary,Maintenance,Vegetarian,1600,70,180,40,"Overnight oats, fruit, nuts","Lentil soup, whole-wheat bread","Vegetable stir-fry, tofu","Apple slices, almond butter"
+25,Female,165,58,Lightly Active,Weight Loss,Omnivore,1800,80,250,60,"Oatmeal, berries, nuts","Tuna salad sandwich, whole-wheat bread, a side salad","Salmon, roasted vegetables, quinoa","Greek yogurt, fruit, granola"
+38,Male,180,85,Moderately Active,Muscle Gain,Omnivore,2800,150,350,80,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, steamed vegetables","Lentil stew, whole-wheat bread","Protein shake, fruit"
+62,Female,160,65,Sedentary,Weight Loss,Vegetarian,1500,70,200,40,"Tofu scramble, whole-wheat toast, avocado","Lentil soup, a side salad","Vegetarian chili, brown rice","Fruit, yogurt"
+28,Male,185,90,Very Active,Muscle Gain,Vegan,3200,180,400,80,"Tofu scramble, whole-wheat toast, avocado","Lentil stew, whole-wheat bread","Bean burgers, sweet potato fries","Protein shake, fruit, nuts"
+45,Female,170,70,Lightly Active,Weight Loss,Vegan,1700,75,220,50,"Oatmeal, fruit, nuts","Black bean burgers, whole-wheat buns, a side salad","Lentil soup, whole-wheat bread","Fruit, nut mix"
+58,Male,175,80,Sedentary,Maintenance,Omnivore,2200,100,280,60,"Eggs, whole-wheat toast, bacon","Chicken salad sandwich, whole-wheat bread, a side salad","Chicken stir-fry, brown rice","Greek yogurt, fruit"
+32,Female,168,62,Moderately Active,Muscle Gain,Vegetarian,2400,120,300,70,"Tofu scramble, whole-wheat toast, avocado","Chickpea salad sandwich, whole-wheat bread, a side salad","Black bean burgers, brown rice, roasted vegetables","Protein shake, fruit, nuts"
+70,Male,170,75,Lightly Active,Weight Loss,Vegan,1600,70,210,40,"Tofu scramble, whole-wheat toast, avocado","Lentil soup, a side salad","Vegetarian chili, brown rice","Fruit, yogurt"
+19,Female,163,55,Very Active,Muscle Gain,Omnivore,2600,140,320,70,"Eggs, whole-wheat toast, bacon","Chicken breast, brown rice, steamed vegetables","Salmon, roasted vegetables, quinoa","Protein shake, fruit"
+55,Male,183,95,Sedentary,Maintenance,Vegetarian,2000,90,250,50,"Scrambled eggs, whole-wheat toast, avocado","Lentil soup, a side salad","Vegetarian chili, brown rice","Fruit, nuts"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2000,120,250,60,"Oatmeal, berries, nuts","Chicken salad, whole-wheat bread","Grilled salmon, roasted vegetables","Greek yogurt, fruit"
+32,Female,165,65,Lightly Active,Weight Loss,Vegetarian,1600,80,180,50,"Tofu scramble, vegetables","Lentil soup, whole-wheat bread","Vegetable stir-fry, brown rice","Apple slices, almond butter"
+55,Male,175,95,Sedentary,Maintenance,Vegan,2200,100,300,70,"Tofu scramble, vegetables","Black bean burger, a whole-wheat bun","Lentil stew, brown rice","Banana, almond butter"
+68,Female,160,70,Lightly Active,Weight Loss,Omnivore,1400,70,150,40,"Yogurt, fruit, granola","Tuna salad, whole-wheat bread","Chicken breast, steamed vegetables","Apple slices, peanut butter"
+28,Male,185,90,Very Active,Muscle Gain,Omnivore,3000,180,400,80,"Scrambled eggs, whole-wheat toast, avocado","Chicken breast, brown rice, vegetables","Steak, sweet potato, green beans","Protein shake, fruit"
+38,Female,170,75,Moderately Active,Maintenance,Vegan,1800,80,220,60,"Tofu scramble, vegetables","Black bean burger, a whole-wheat bun","Lentil stew, brown rice","Banana, almond butter"
+58,Male,170,85,Sedentary,Maintenance,Omnivore,2000,80,250,60,"Oatmeal, fruit, nuts","Turkey sandwich, whole-wheat bread","Grilled chicken, roasted vegetables","Greek yogurt, fruit"
+42,Female,168,60,Very Active,Muscle Gain,Vegetarian,2200,100,300,70,"Tofu scramble, vegetables","Lentil soup, whole-wheat bread","Vegetable stir-fry, quinoa","Apple slices, almond butter"
+21,Male,190,100,Moderately Active,Muscle Gain,Vegan,2800,140,350,90,"Tofu scramble, vegetables","Black bean burger, a whole-wheat bun","Lentil stew, brown rice","Banana, almond butter"
+62,Female,155,55,Sedentary,Weight Loss,Vegan,1200,60,120,30,"Tofu scramble, vegetables","Lentil soup, whole-wheat bread","Vegetable stir-fry, brown rice","Apple slices, almond butter"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2000,120,250,60,"Greek yogurt, berries, granola","Chicken salad sandwich, whole-wheat bread, a side of fruit","Salmon, roasted vegetables","Apple slices, peanut butter"
+32,Female,165,65,Sedentary,Weight Loss,Vegetarian,1600,80,200,40,"Tofu scramble, vegetables, whole-wheat toast","Lentil soup, a side of whole-wheat bread","Vegetarian chili, brown rice","Mixed nuts, dried fruit"
+58,Male,175,95,Lightly Active,Maintenance,Vegan,2200,100,300,65,"Tofu, vegetable stir-fry","Black bean burger, a whole-wheat bun, a side salad","Lentil, vegetable curry, brown rice","Popcorn, nutritional yeast"
+40,Female,170,72,Moderately Active,Muscle Gain,Omnivore,2500,150,350,80,"Oatmeal, protein powder, berries","Chicken breast, brown rice, vegetables","Turkey chili, whole-wheat bread","Greek yogurt, protein powder"
+28,Male,185,90,Very Active,Muscle Gain,Vegan,3000,180,400,90,"Tofu, vegetable stir-fry, quinoa","Black bean burgers, sweet potato fries","Lentil loaf, roasted vegetables","Protein smoothie, banana, spinach"
+62,Female,160,60,Sedentary,Maintenance,Omnivore,1800,80,220,50,"Eggs, whole-wheat toast, fruit","Tuna salad sandwich, whole-wheat bread, a side of fruit","Chicken stir-fry, brown rice",Trail mix
+35,Male,190,100,Very Active,Weight Loss,Vegetarian,2400,140,300,70,"Quinoa porridge, berries","Chickpea salad sandwich, whole-wheat bread, a side of fruit","Vegetarian lasagna, a side salad","Hummus, veggie wraps"
+22,Female,168,55,Lightly Active,Weight Loss,Vegan,1500,70,180,40,"Tofu, vegetable scramble, whole-wheat toast","Lentil stew, brown rice","Vegan pasta, marinara sauce, vegetables",Fruit salad
+55,Male,178,85,Sedentary,Maintenance,Omnivore,2000,100,250,60,"Greek yogurt, granola, fruit","Tuna salad sandwich, whole-wheat bread, a side salad","Chicken, vegetable stir-fry, brown rice",Trail mix
+48,Female,172,78,Moderately Active,Weight Loss,Vegan,1800,90,220,50,"Oatmeal, fruit, nuts","Lentil soup, whole-wheat bread","Tofu, vegetable stir-fry, brown rice","Popcorn, nutritional yeast"
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Greek yogurt, berries, granola","Chicken breast salad, mixed greens, avocado","Salmon, roasted vegetables","Apple, almond butter"
+38,Female,165,68,Lightly Active,Maintenance,Vegetarian,1800,80,200,50,"Tofu scramble, vegetables, whole wheat toast","Lentil soup, whole wheat bread","Vegetable stir-fry, brown rice","Mixed nuts, dried fruit"
+55,Male,175,95,Sedentary,Weight Loss,Vegan,1800,80,200,50,"Tofu scramble, vegetables, whole wheat toast","Lentil soup, whole wheat bread","Vegetable stir-fry, brown rice","Mixed nuts, dried fruit"
+62,Female,160,70,Lightly Active,Weight Loss,Vegan,1500,70,175,40,"Overnight oats, chia seeds, fruit","Black bean burger, a whole wheat bun, salad","Lentil stew, brown rice","Fruit, vegetable salad"
+28,Male,190,90,Very Active,Muscle Gain,Omnivore,3000,160,350,80,"Scrambled eggs, whole wheat toast, avocado","Chicken breast, quinoa, vegetables","Steak, sweet potato, broccoli",Protein bar
+40,Female,170,75,Moderately Active,Muscle Gain,Vegetarian,2200,100,250,60,"Tofu scramble, vegetables, whole wheat toast","Lentil soup, whole wheat bread","Vegetable stir-fry, brown rice","Mixed nuts, dried fruit"
+58,Male,170,80,Sedentary,Weight Loss,Vegan,1600,70,180,40,"Overnight oats, chia seeds, fruit","Black bean burger, a whole wheat bun, salad","Lentil stew, brown rice","Fruit, vegetable salad"
+65,Female,155,65,Lightly Active,Maintenance,Omnivore,1500,60,175,40,"Greek yogurt, berries, granola","Chicken breast salad, mixed greens, avocado","Salmon, roasted vegetables","Apple, almond butter"
+32,Male,185,100,Very Active,Muscle Gain,Omnivore,3200,180,380,90,"Scrambled eggs, whole wheat toast, avocado","Chicken breast, quinoa, vegetables","Steak, sweet potato, broccoli",Protein bar
+45,Female,168,72,Moderately Active,Weight Loss,Vegan,1700,70,190,45,"Overnight oats, chia seeds, fruit","Black bean burger, a whole wheat bun, salad","Lentil stew, brown rice","Fruit, vegetable salad"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,140,250,70,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Greek yogurt, fruit"
+32,Female,165,65,Sedentary,Muscle Gain,Vegetarian,2000,120,200,60,"Tofu scramble, vegetables","Lentil soup, whole-grain bread","Chickpea pasta, tomato sauce",Trail mix
+48,Male,175,95,Very Active,Maintenance,Vegan,2800,160,350,85,"Tofu breakfast burrito, avocado","Black bean burger, a whole-grain bun","Tempeh stir-fry, brown rice","Mixed nuts, dried fruit"
+55,Female,160,70,Lightly Active,Weight Loss,Omnivore,1800,100,180,50,"Greek yogurt, granola, fruit","Tuna salad sandwich, whole-grain bread","Chicken stir-fry, brown rice","Fruit, nuts"
+28,Male,190,100,Moderately Active,Muscle Gain,Omnivore,3000,180,400,100,"Scrambled eggs, whole-wheat toast","Chicken breast, brown rice, vegetables","Steak, sweet potato, green beans",Protein shake
+62,Female,155,55,Sedentary,Maintenance,Vegan,1600,80,160,40,"Tofu scramble, vegetables","Lentil soup, whole-grain bread","Vegan chili, brown rice","Fruit, vegetables"
+35,Male,170,75,Very Active,Weight Loss,Vegetarian,2400,130,300,70,"Oatmeal, fruit, nuts","Quinoa salad, vegetables","Bean burrito, brown rice",Trail mix
+22,Female,168,58,Lightly Active,Muscle Gain,Omnivore,2200,120,250,60,"Greek yogurt, fruit, granola","Chicken breast, brown rice, vegetables","Salmon, roasted vegetables",Protein bar
+58,Male,178,85,Moderately Active,Weight Loss,Vegan,2000,120,200,60,"Tofu scramble, vegetables","Lentil soup, whole-grain bread","Vegan chili, brown rice","Fruit, vegetables"
+40,Female,172,78,Sedentary,Maintenance,Omnivore,1800,100,180,50,"Greek yogurt, granola, fruit","Tuna salad sandwich, whole-grain bread","Chicken stir-fry, brown rice","Fruit, nuts"
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2200,150,250,60,"Oatmeal, berries, nuts","Grilled chicken salad, whole grain bread","Salmon, roasted vegetables","Greek yogurt, fruit, granola"
+32,Female,165,60,Lightly Active,Maintenance,Vegetarian,1800,80,220,50,"Tofu scramble, avocado toast","Quinoa bowl, roasted vegetables, chickpeas","Lentil soup, whole grain bread","Apple, almond butter"
+55,Male,175,90,Sedentary,Weight Loss,Omnivore,2000,120,200,55,"Scrambled eggs, whole grain toast","Chicken breast, brown rice, steamed vegetables","Lentil stew, whole grain bread","Fruit salad, Greek yogurt"
+28,Female,170,70,Very Active,Muscle Gain,Vegan,2400,160,300,70,"Tofu, vegetable stir-fry","Chickpea, vegetable curry, brown rice","Lentil, vegetable soup, whole grain bread","Trail mix, nuts, seeds"
+62,Female,160,65,Lightly Active,Weight Loss,Vegan,1600,70,180,40,"Overnight oats, berries, chia seeds","Black bean burger, a whole wheat bun, salad","Lentil stew, vegetables, brown rice","Fruit, almond butter"
+38,Male,185,95,Moderately Active,Muscle Gain,Omnivore,2800,200,350,80,"Protein smoothie, fruit, spinach","Chicken breast, sweet potato, broccoli","Steak, roasted vegetables",Protein bar
+21,Female,168,55,Very Active,Maintenance,Vegan,2000,100,250,60,"Tofu scramble, vegetables, avocado toast","Chickpea pasta, vegetable sauce","Bean, vegetable stir-fry, brown rice","Fruit, nuts, seeds"
+40,Male,190,110,Sedentary,Weight Loss,Omnivore,2000,140,200,50,"Greek yogurt, berries, granola","Chicken salad sandwich, whole wheat bread","Turkey chili, whole grain bread","Popcorn, a sprinkle of nutritional yeast"
+23,Female,172,68,Moderately Active,Weight Loss,Vegetarian,1800,100,200,50,"Scrambled eggs, whole grain toast","Quinoa salad, roasted vegetables, chickpeas","Lentil soup, whole grain bread","Trail mix, nuts, seeds"
+48,Male,178,80,Lightly Active,Weight Loss,Vegan,1800,100,200,50,"Overnight oats, berries, chia seeds","Black bean burger, a whole wheat bun, salad","Lentil stew, vegetables, brown rice","Fruit, almond butter"
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Greek Yogurt, Berries, Nuts","Tuna Salad Sandwich, Whole Wheat Bread","Chicken Stir-Fry, Brown Rice","Apple, Peanut Butter"
+32,Female,165,65,Lightly Active,Muscle Gain,Vegetarian,2000,100,200,70,"Tofu Scramble, Avocado Toast","Quinoa Salad, Grilled Vegetables","Lentil Soup, Whole Wheat Bread","Mixed Nuts, Dried Fruits"
+48,Male,175,95,Very Active,Weight Loss,Omnivore,2800,150,300,80,"Oatmeal, Protein Powder, Berries","Chicken Breast, Brown Rice, Steamed Vegetables","Salmon, Roasted Sweet Potatoes","Yogurt Parfait, Granola"
+55,Female,160,70,Sedentary,Maintenance,Vegan,1800,80,220,50,"Tofu Scramble, Whole Wheat Toast","Lentil, Vegetable Curry, Brown Rice","Black Bean Burgers, Whole Wheat Buns","Fruit Salad, Coconut Yogurt"
+28,Male,190,90,Moderately Active,Muscle Gain,Omnivore,2800,160,350,100,"Eggs, Whole Wheat Toast, Avocado","Chicken, Vegetable Wrap, Whole Wheat Tortilla","Grilled Steak, Sweet Potato Fries","Protein Shake, Banana"
+62,Male,170,85,Lightly Active,Weight Loss,Vegan,1800,80,200,50,"Tofu Scramble, Whole Wheat Toast","Lentil, Vegetable Curry, Brown Rice","Black Bean Burgers, Whole Wheat Buns","Fruit Salad, Coconut Yogurt"
+35,Female,170,75,Very Active,Muscle Gain,Vegetarian,2400,120,280,80,"Greek Yogurt, Berries, Nuts","Quinoa Salad, Grilled Vegetables","Lentil Soup, Whole Wheat Bread","Mixed Nuts, Dried Fruits"
+22,Female,160,55,Sedentary,Weight Loss,Vegan,1600,70,180,40,"Tofu Scramble, Whole Wheat Toast","Lentil, Vegetable Curry, Brown Rice","Black Bean Burgers, Whole Wheat Buns","Fruit Salad, Coconut Yogurt"
+40,Male,185,100,Moderately Active,Weight Loss,Omnivore,2500,130,280,70,"Oatmeal, Protein Powder, Berries","Chicken Breast, Brown Rice, Steamed Vegetables","Salmon, Roasted Sweet Potatoes","Yogurt Parfait, Granola"
+29,Female,175,85,Very Active,Muscle Gain,Vegetarian,2600,130,320,90,"Greek Yogurt, Berries, Nuts","Quinoa Salad, Grilled Vegetables","Lentil Soup, Whole Wheat Bread","Mixed Nuts, Dried Fruits"
+25,Male,180,80,Moderately Active,Muscle Gain,Omnivore,3000,180,350,80,"Oatmeal, protein powder, berries","Chicken breast, brown rice, vegetables","Salmon, roasted sweet potatoes, broccoli","Greek yogurt, almonds, fruit"
+38,Female,165,65,Lightly Active,Weight Loss,Vegetarian,1800,100,200,50,"Tofu scramble, whole grain toast, avocado","Lentil soup, whole grain bread","Chickpea curry, brown rice","Fruit, nut mix"
+55,Male,175,90,Sedentary,Weight Loss,Omnivore,2200,120,250,60,"Eggs, whole wheat toast, fruit","Tuna salad sandwich, whole grain bread","Chicken stir-fry, brown rice","Apple, peanut butter"
+62,Female,160,70,Moderately Active,Maintenance,Vegan,2000,100,220,60,"Tofu scramble, whole grain toast, avocado","Lentil soup, whole grain bread","Chickpea curry, brown rice","Fruit, nut mix"
+28,Male,190,100,Very Active,Muscle Gain,Omnivore,3500,200,400,100,"Greek yogurt, granola, berries","Chicken breast, brown rice, vegetables","Steak, sweet potato fries, mixed greens",Protein shake
+42,Female,170,75,Lightly Active,Weight Loss,Vegan,1700,90,180,45,"Tofu scramble, whole grain toast, avocado","Lentil soup, whole grain bread","Chickpea curry, brown rice","Fruit, nut mix"
+68,Male,170,85,Sedentary,Maintenance,Omnivore,2000,100,220,60,"Eggs, whole wheat toast, fruit","Tuna salad sandwich, whole grain bread","Chicken stir-fry, brown rice","Apple, peanut butter"
+22,Female,165,55,Very Active,Muscle Gain,Vegan,2500,150,300,70,"Tofu scramble, whole grain toast, avocado","Lentil soup, whole grain bread","Chickpea curry, brown rice","Fruit, nut mix"
+35,Male,185,95,Moderately Active,Weight Loss,Omnivore,2500,140,280,70,"Oatmeal, protein powder, berries","Chicken breast, brown rice, vegetables","Salmon, roasted sweet potatoes, broccoli","Greek yogurt, almonds, fruit"
+58,Female,155,60,Sedentary,Maintenance,Vegan,1800,80,200,50,"Tofu scramble, whole grain toast, avocado","Lentil soup, whole grain bread","Chickpea curry, brown rice","Fruit, nut mix"
+25,Female,165,55,Lightly Active,Weight Loss,Omnivore,1800,100,200,60,"Greek yogurt, berries, granola","Chicken salad sandwich, whole grain bread, a side of fruit","Salmon, roasted vegetables, brown rice",Trail mix
+32,Male,180,80,Moderately Active,Muscle Gain,Omnivore,2800,180,350,80,"Scrambled eggs, whole wheat toast, avocado","Chicken stir-fry, brown rice","Steak, baked potato, broccoli",Protein shake
+58,Female,160,70,Sedentary,Weight Loss,Vegetarian,1500,80,150,50,"Oatmeal, fruit, nuts","Lentil soup, whole wheat bread","Tofu stir-fry, brown rice","Fruit, yogurt"
+38,Male,190,95,Very Active,Muscle Gain,Omnivore,3200,200,400,100,"Pancakes, fruit, syrup","Chicken breast, quinoa, vegetables","Beef, sweet potato, green beans",Protein bar
+22,Female,170,60,Lightly Active,Maintenance,Vegan,2000,100,250,70,"Tofu scramble, vegan toast, avocado","Vegan chili, brown rice","Lentil pasta, vegan pesto sauce","Banana, peanut butter"
+65,Male,175,85,Sedentary,Weight Loss,Omnivore,1700,90,180,60,"Fruit salad, yogurt","Tuna salad sandwich, whole grain bread, a side of salad","Baked chicken, roasted vegetables","Mixed nuts, dried fruit"
+40,Female,168,65,Moderately Active,Muscle Gain,Vegetarian,2200,120,280,80,"Scrambled eggs, whole wheat toast, spinach","Chickpea salad sandwich, whole grain bread","Lentil stew, brown rice","Hummus, veggie sticks"
+28,Male,185,90,Very Active,Muscle Gain,Vegan,3000,150,375,90,"Tofu scramble, vegan toast, avocado","Vegan lentil burger, sweet potato fries","Tofu stir-fry, brown rice","Trail mix, dried fruit"
+52,Female,158,62,Sedentary,Weight Loss,Vegan,1400,70,140,40,"Oatmeal, fruit, nuts","Vegan chili, whole wheat bread","Tofu stir-fry, brown rice","Fruit, yogurt"
+35,Male,178,75,Moderately Active,Maintenance,Omnivore,2500,130,300,80,"Greek yogurt, granola, fruit","Tuna salad sandwich, whole grain bread, a side of salad","Chicken breast, quinoa, vegetables",Protein bar
+25,Male,180,80,Moderately Active,Weight Loss,Omnivore,2200,120,250,60,"Oatmeal, berries, nuts","Chicken breast salad, whole-wheat bread","Salmon, roasted vegetables","Greek yogurt, fruit"
+35,Female,165,65,Lightly Active,Maintenance,Vegetarian,1800,80,200,50,"Tofu scramble, whole-wheat toast","Vegetarian chili, brown rice","Lentil soup, whole-wheat bread",Trail mix
+55,Female,160,70,Sedentary,Weight Loss,Vegan,1500,70,180,40,Tofu breakfast burrito,"Lentil, vegetable curry, brown rice","Black bean burgers, sweet potato fries","Fruit, nut smoothie"
+40,Male,190,95,Very Active,Muscle Gain,Omnivore,3000,180,350,80,"Scrambled eggs, whole-wheat toast","Chicken, vegetable stir-fry","Steak, sweet potato, broccoli",Protein shake
+28,Female,170,55,Lightly Active,Maintenance,Vegan,1800,80,200,50,"Overnight oats, fruit, nuts","Lentil, vegetable curry, brown rice","Chickpea pasta, marinara sauce","Hummus, vegetable sticks"
+62,Male,175,85,Moderately Active,Weight Loss,Omnivore,2000,100,220,50,"Greek yogurt, granola, fruit","Chicken salad, whole-wheat bread","Turkey chili, brown rice",Trail mix
+32,Female,168,60,Very Active,Muscle Gain,Vegetarian,2400,100,280,60,"Scrambled eggs, whole-wheat toast","Vegetarian chili, brown rice","Lentil, vegetable curry, brown rice","Fruit, nut smoothie"
+21,Male,185,88,Sedentary,Weight Loss,Vegan,1800,80,200,50,Tofu breakfast burrito,"Lentil, vegetable curry, brown rice","Black bean burgers, sweet potato fries","Hummus, vegetable sticks"
+48,Male,178,90,Moderately Active,Maintenance,Omnivore,2400,120,280,70,"Oatmeal, berries, nuts","Chicken breast salad, whole-wheat bread","Salmon, roasted vegetables","Greek yogurt, fruit"
+38,Female,172,75,Lightly Active,Weight Loss,Vegan,1600,70,180,40,"Overnight oats, fruit, nuts","Lentil, vegetable curry, brown rice","Chickpea pasta, marinara sauce","Fruit, nut smoothie"
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2200,150,250,60,"Greek yogurt, berries, granola","Chicken salad sandwich, whole-wheat bread, a side salad","Salmon, roasted vegetables","Apple slices, peanut butter"
+38,Female,165,62,Lightly Active,Maintenance,Vegan,1800,80,220,50,"Tofu scramble, veggies, avocado toast","Lentil soup, whole-wheat bread","Vegan chili, brown rice",Trail mix
+55,Female,160,70,Sedentary,Weight Loss,Vegetarian,1600,70,180,40,"Oatmeal, fruit, nuts","Black bean burger, a whole-wheat bun, a side salad","Lentil, vegetable curry","Fruit, yogurt"
+28,Male,190,95,Very Active,Muscle Gain,Omnivore,3000,200,350,80,"Scrambled eggs, whole-wheat toast, fruit","Chicken stir-fry, brown rice","Steak, sweet potato fries",Protein shake
+62,Male,175,80,Lightly Active,Maintenance,Omnivore,2000,100,200,60,"Breakfast burrito, beans, veggies","Tuna salad sandwich, whole-wheat bread","Chicken breast, roasted vegetables","Fruit, cheese"
+32,Female,170,68,Moderately Active,Muscle Gain,Vegan,2200,120,280,60,"Tofu scramble, veggies, avocado toast","Lentil, veggie stir-fry, brown rice","Vegan burgers, sweet potato fries","Nuts, seeds"
+21,Female,168,55,Sedentary,Weight Loss,Vegan,1500,60,160,40,"Overnight oats, fruit, nuts","Vegan chili, brown rice","Lentil soup, whole-wheat bread","Fruit, yogurt"
+40,Male,185,90,Very Active,Muscle Gain,Omnivore,3200,220,400,90,"Scrambled eggs, whole-wheat toast, fruit","Chicken breast, brown rice, vegetables","Steak, baked potato",Protein shake
+27,Female,172,75,Moderately Active,Maintenance,Vegetarian,1900,80,210,50,"Greek yogurt, fruit, granola","Black bean burger, a whole-wheat bun, a side salad","Lentil, vegetable stew",Trail mix
+19,Male,183,78,Lightly Active,Weight Loss,Omnivore,2000,120,200,50,"Oatmeal, fruit, nuts","Turkey, veggie wrap, whole-wheat tortilla","Chicken breast, broccoli, sweet potato","Fruit, yogurt"
+25,Male,180,85,Moderately Active,Weight Loss,Omnivore,2200,150,250,60,"Oatmeal, berries, nuts","Grilled chicken salad, mixed greens","Salmon, roasted vegetables","Greek yogurt, fruit"
+32,Female,165,60,Lightly Active,Muscle Gain,Vegan,2000,120,200,50,"Tofu scramble, vegetables","Lentil soup, whole grain bread","Chickpea curry, brown rice","Trail mix, nuts, seeds"
+55,Male,175,90,Sedentary,Weight Loss,Omnivore,1800,120,200,50,"Eggs, whole grain toast","Turkey sandwich, whole grain bread","Chicken stir-fry, brown rice","Fruit, yogurt"
+68,Female,160,70,Sedentary,Maintenance,Vegetarian,1600,80,180,40,"Yogurt, fruit, granola","Vegetarian chili, whole grain bread","Lentil pasta, vegetables","Mixed nuts, seeds"
