@@ -33,4 +33,4 @@ You can run Flower on Docker too! Check out the [Flower with Docker](https://flo
 
 ## Optional Features
 
-The framework can add noise during training. In 'fl/Optional_Training_Method', you can select the corresponding folder to replace the client_app.py' and 'server_app.py' in the 'fl' folder for training to obtain new training results.
+The framework can add noise during training. In `fl/Optional_Training_Method`, you can select the corresponding folder to replace the `client_app.py` and `server_app.py` in the `fl` folder for training to obtain new training results.
