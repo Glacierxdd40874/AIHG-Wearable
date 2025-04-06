@@ -4,10 +4,12 @@ This directory contains the implementations of various machine learning models u
 
 ## Models
 
-### 1. **Federated Learning Wrappers (`federated_wrappers.py`)**
-This module includes the necessary wrappers and adapters to integrate the models with federated learning frameworks such as **Flower** or **PySyft**.  
+### 1. **Federated Learning Wrappers (`Flower/`)**
+This module includes the necessary wrappers and adapters to integrate the models with federated learning frameworks **Flower** .  
 - **Input**: Local datasets on different devices
-- **Output**: Federated model updates aggregated across devices
+- **Output**:
+  - Federated model updates aggregated across devices
+  - Accuracy, Training time, Loss and Memory Usage of the framework
 - **Features**:
   - Ensures privacy and security by training on local data
   - Allows for decentralized model training
