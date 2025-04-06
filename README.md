@@ -10,12 +10,11 @@ Completion will be measured by developing a model or prototype and assessing its
 
 > 🔧 *Training-focused phase – hardware integration and deployment components will be added in future updates.*  
 ├── data_preprocessing/ # Scripts for cleaning and formatting health data  
-> ├── models/ # Model architectures (e.g., LSTM, CNN, Transformer)  
-> ├── trainers/ # Training and evaluation scripts  
-> ├── experiments/ # Experiment configs and results  
-> ├── utils/ # Helper functions (metrics, logging, etc.)  
-> ├── datasets/ #The dataset used for training after cleaning  
-> └── README.md # Project overview  
+├── models/ # Model architectures (e.g., LSTM, CNN, Transformer)  
+├── trainers/ # Training and evaluation scripts  
+├── experiments/ # Experiment configs and results  
+├── utils/ # Helper functions (metrics, logging, etc.)  
+└── README.md # Project overview  
 
 ## 🧠 Training Methods
 
