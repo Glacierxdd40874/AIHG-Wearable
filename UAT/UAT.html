@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HealthGuardian.AI - User Acceptance Testing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+    }
+    h1 {
+      text-align: center;
+      padding: 20px;
+    }
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      padding: 10px 20px;
+    }
+    .feature-box {
+      padding: 12px;
+      color: white;
+      font-size: 14px;
+      text-align: center;
+      cursor: pointer;
+      border-radius: 6px;
+      transition: transform 0.2s;
+    }
+    .feature-box:hover {
+      transform: scale(1.05);
+    }
+    .login { background-color: #e74c3c; }
+    .data { background-color: #3498db; }
+    .report { background-color: #27ae60; }
+    .access { background-color: #9b59b6; }
+
+    .content-area {
+      padding: 20px;
+      background-color: #fff;
+      margin: 0 20px 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    textarea, input[type="text"] {
+      width: 100%;
+      padding: 8px;
+      margin: 8px 0 16px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+
+    button.submit-btn {
+      background-color: #2ecc71;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 5px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    .submit-btn:hover {
+      background-color: #27ae60;
+    }
+
+    .test-cases, .summary {
+      background-color: #fff;
+      margin: 0 20px 30px;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .test-cases table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .test-cases th, .test-cases td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    .test-cases th {
+      background-color: #f0f0f0;
+    }
+    .pass {
+      color: green;
+      font-weight: bold;
+    }
+    .fail {
+      color: red;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<h1>HealthGuardian.AI - User Acceptance Testing</h1>
+
+<div class="grid-container">
+  <div class="feature-box login" onclick="showTest('login')">1. Login</div>
+  <div class="feature-box data" onclick="showTest('data')">2. Data Display</div>
+  <div class="feature-box report" onclick="showTest('report')">3. Report Export</div>
+  <div class="feature-box access" onclick="showTest('access')">4. Access Control</div>
+</div>
+
+<div class="content-area" id="testArea">
+  <p> Click on a feature above to begin testing and provide feedback...</p>
+</div>
+
+<div class="test-cases">
+  <h2> Test Cases</h2>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>User Name</th>
+      <th>Module</th>
+      <th>Test Case</th>
+      <th>Expected</th>
+      <th>Actual</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td>TC01</td>
+      <td>Alice</td>
+      <td>Login</td>
+      <td>Login with correct credentials</td>
+      <td>Login successful</td>
+      <td>Login successful</td>
+      <td class="pass">Pass</td>
+    </tr>
+    <tr>
+      <td>TC02</td>
+      <td>Bob</td>
+      <td>Data Display</td>
+      <td>Load 7-day data chart</td>
+      <td>Chart displayed correctly</td>
+      <td>Chart displayed correctly</td>
+      <td class="pass">Pass</td>
+    </tr>
+    <tr>
+      <td>TC03</td>
+      <td>Carol</td>
+      <td>Report Export</td>
+      <td>Export PDF report</td>
+      <td>PDF download successful</td>
+      <td>PDF download successful</td>
+      <td class="pass">Pass</td>
+    </tr>
+    <tr>
+      <td>TC04</td>
+      <td>David</td>
+      <td>Access Control</td>
+      <td>Normal user tries admin function</td>
+      <td>Access denied</td>
+      <td>Access denied</td>
+      <td class="pass">Pass</td>
+    </tr>
+    <tr>
+      <td>TC05</td>
+      <td>Eve</td>
+      <td>Report Export</td>
+      <td>Export CSV report</td>
+      <td>CSV downloaded</td>
+      <td>No response</td>
+      <td class="fail">Fail</td>
+    </tr>
+  </table>
+</div>
+
+<div class="summary">
+  <h2> Summary</h2>
+  <p>A total of 5 test cases were executed. 4 passed, and 1 failed.</p>
+</div>
+
+<script>
+function showTest(type) {
+  const testInfo = {
+    login: {
+      title: "Login Function Test",
+      tasks: `
+        <ul>
+          <li> Can you log in with valid credentials?</li>
+          <li> Is there an error message for incorrect login?</li>
+          <li> Are you redirected to the home screen after login?</li>
+        </ul>
+      `,
+      placeholder: "Describe your experience with the login feature..."
+    },
+    data: {
+      title: "Data Display Test",
+      tasks: `
+        <ul>
+          <li> Can the app load daily health data successfully?</li>
+          <li> Are charts accurate and clear?</li>
+          <li> Are different time periods shown correctly?</li>
+        </ul>
+      `,
+      placeholder: "Describe your experience with data display..."
+    },
+    report: {
+      title: "Report Export Test",
+      tasks: `
+        <ul>
+          <li> Can you export the health report in PDF/CSV format?</li>
+          <li> Is the report complete and well-formatted?</li>
+          <li> Is the export fast, and is the file accessible?</li>
+        </ul>
+      `,
+      placeholder: "Describe your experience with report export..."
+    },
+    access: {
+      title: "Access Control Test",
+      tasks: `
+        <ul>
+          <li> Are regular users blocked from admin areas?</li>
+          <li> Do admins have full access?</li>
+          <li> Are permission changes effective immediately?</li>
+        </ul>
+      `,
+      placeholder: "Describe your experience with access control..."
+    }
+  };
+
+  const info = testInfo[type];
+  if (!info) return;
+
+  const html = `
+    <h2>${info.title}</h2>
+    <h4> Test Tasks:</h4>
+    ${info.tasks}
+    <form onsubmit="submitFeedback(event, '${info.title}')">
+      <label>User Name:</label>
+      <input type="text" name="username" required>
+
+      <label>Feedback:</label>
+      <textarea name="feedback" rows="5" placeholder="${info.placeholder}" required></textarea>
+
+      <label>Test Result:</label><br>
+      <input type="radio" name="result" value="Pass" required> Pass
+      <input type="radio" name="result" value="Fail"> Fail
+      <br><br>
+
+      <button type="submit" class="submit-btn">Submit Feedback</button>
+    </form>
+  `;
+
+  document.getElementById("testArea").innerHTML = html;
+}
+
+function submitFeedback(event, testTitle) {
+  event.preventDefault();
+  const form = event.target;
+  const username = form.username.value.trim();
+  const feedback = form.feedback.value.trim();
+  const result = form.querySelector('input[name="result"]:checked')?.value;
+
+  if (username && feedback && result) {
+    alert(`✅ Feedback received for [${testTitle}].\nUser: ${username}\nResult: ${result}`);
+    form.reset();
+  } else {
+    alert("Please complete all fields and select Pass or Fail before submitting.");
+  }
+}
+</script>
+
+</body>
+</html>
