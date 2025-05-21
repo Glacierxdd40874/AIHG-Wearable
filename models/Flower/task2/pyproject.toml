@@ -1,0 +1,36 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fl2"
+version = "1.0.0"
+description = ""
+license = "Apache-2.0"
+dependencies = [
+    "flwr[simulation]>=1.17.0",
+    "flwr-datasets[vision]>=0.5.0",
+    "tensorflow>=2.11.1,<2.18.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]
+
+[tool.flwr.app]
+publisher = "fl2"
+
+[tool.flwr.app.components]
+serverapp = "fl2.server_app:app"
+clientapp = "fl2.client_app:app"
+
+[tool.flwr.app.config]
+num-server-rounds = 5
+local-epochs = 20
+batch-size = 32
+verbose = false
+
+[tool.flwr.federations]
+default = "local-simulation"
+
+[tool.flwr.federations.local-simulation]
+options.num-supernodes = 10
